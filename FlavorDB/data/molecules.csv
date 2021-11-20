@@ -1,0 +1,1789 @@
+pubchem id,common name,flavor profile
+4,1-Aminopropan-2-ol,{'fishy'}
+100031,4-Isopropenyl-1-methyl-7-oxabicyclo[4.1.0]heptan-2-one,"{'spearmint', 'minty'}"
+1001,Phenethylamine,"{'fishy', 'ammoniacal'}"
+10037,Allene,{''}
+101010,"2-Methyl-4-propyl-1,3-oxathiane","{'tropica', 'tropical', 'green', 'pineapple', 'galbanum'}"
+10104370,beta-Bisabolene,{''}
+10106,"1,4-Cineole","{'green', 'spice', 'terpene', 'pine', 'camphor', 'minty', 'cooling'}"
+101115,"2,6,6-trimethyl-2-hydroxycyclohexanone","{'sweet', 'tobacco', 'herbal'}"
+101716,Globulol,"{'floral', 'rose'}"
+101750,p-Camphorene,"{'low', 'solvent', 'diterpene'}"
+102024,cis-Carvyl acetate,{''}
+10224,483-77-2,"{'herb', 'spice'}"
+10225,Cadalene,{''}
+10231,Dillapiole,"{'spice', 'wood'}"
+10248,Elemicin,"{'flower', 'spice'}"
+102550,Lavender lactone,"{'fruity', 'minty'}"
+102611,6-methyl-2-(oxiran-2-yl)hept-5-en-2-ol,"{'wood', 'floral', 'green', 'flower', 'herbal', 'earthy'}"
+102667,Pinocarveol,"{'camphor', 'woody', 'pine', 'herbal', 'balsam'}"
+10281,Thymoquinone,{''}
+10282,Piperitol,"{'herb', 'herbal'}"
+102861,24851-98-7,"{'jasmin', 'floral', 'natural', 'tropical', 'oily', 'lactonic', 'green'}"
+1030,"1,2-propanediol","{'odorless', 'alcoholic', 'very slight'}"
+1031,1-propanol,"{'alcohol', 'fermented', 'alcoholic', 'musty', 'fusel', 'peanut', 'pungent'}"
+1032,propionic acid,"{'rancid', 'acidic', 'cheesy', 'soy', 'vinegar', 'pungent'}"
+10341,2(5H)-Furanone,{'buttery'}
+10353,p-MENTHAN-8-OL,"{'terpenic', 'woody', 'pine', 'sweet', 'lime'}"
+10362,Carvomenthone,"{'herbal', 'spearmint', 'minty'}"
+10364,Carvacrol,"{'spice', 'woody', 'thymol', 'camphor'}"
+10393,2-(4-Hydroxyphenyl)ethanol,"{'floral', 'fruity', 'sweet', 'mild'}"
+10398656,alpha-Cadinol,{''}
+10402,Citronellic acid,"{'smoky', 'floral', 'grassy', 'green', 'fatty'}"
+10405,5-Nonanone,{''}
+10407,(E)-.beta.-Farnesene,"{'citrus', 'green'}"
+10408,"6,10,14-Trimethylpentadecan-2-one","{'celery', 'woody', 'fat', 'oily', 'herbal', 'jasmin'}"
+10430,Isovaleric Acid,"{'acid', 'sweaty', 'rancid', 'tropical', 'animal', 'sweat', 'feet', 'cheese', 'stinky', 'sour'}"
+10448,3-methylthiopropanol,"{'potato', 'onion', 'sulfurous', 'vegetable', 'sweet', 'soup'}"
+10451,"1,3-Dithiane","{'roasted', 'alliaceous'}"
+10452,"1,4-Dithiane","{'fishy', 'onion', 'garlic', 'sulfurous', 'pyridine', 'solvent'}"
+10453,Isophytol,{''}
+104620,"4,5-Dimethyl-2-propyloxazole","{'roasted', 'burnt'}"
+104722,"1-(3,6-dimethylpyrazin-2-yl)ethanone","{'popcorn', 'roasted', 'hazelnut'}"
+1049,Pyridine,"{'fishy', 'putrid', 'sickening', 'rancid', 'sour', 'amine'}"
+10534,"Bicyclo[2.2.1]heptane, 2-methyl-3-methylene-2-(4-methyl-3-pentenyl)-, (1S-exo)-",{'woody'}
+10558,Isobutyl mercaptan,"{'cooked', 'vegetable', 'mustard'}"
+10582,Myrtenol,"{'pine', 'woody', 'balsam', 'mint', 'medical', 'sweet'}"
+10586,Bisabolol,"{'floral', 'flower', 'mild', 'spice', 'peppery'}"
+1060,Pyruvic acid,"{'acetic', 'sour', 'caramellic', 'sharp'}"
+106441,2-isopropyl-6-methoxypyrazine,{''}
+10657,Beta-Cadinene,{''}
+10659,Apiole,"{'faint', 'parsley'}"
+10680,Flavone,{'bitter'}
+1068,dimethyl sulfide,"{'sulfurous', 'sulfur', 'vegetable', 'gasoline', 'onion', 'sulfury', 'tomato', 'radish', 'wild', 'cabbage', 'green', 'sweet corn'}"
+10703,2-Isopropyltoluene,{''}
+107152,"Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, (1S,4S,7R)-","{'peppery', 'woody', 'balsam', 'wood', 'balsamic', 'sweet'}"
+107153,3695-24-7,{''}
+107166,3738-00-9,"{'old paper', 'labdanum', 'ambergris', 'dry', 'sweet'}"
+107217,Fenchyl acetate,"{'fir', 'citrus', 'pine', 'sweet', 'fresh', 'herbal'}"
+10722,2-Methylbenzaldehyde,{'cherry'}
+107,3-Phenylpropanoic acid,"{'balsamic', 'fatty', 'cinnamon', 'musk', 'sweet', 'rose'}"
+10748,7-Methoxycoumarin,"{'sweet', 'balsam', 'balsamic', 'tonka'}"
+107561,(-)-piperitone,"{'pungent', 'peppermint', 'minty'}"
+107689,L-Lactic acid,"{'acidic', 'odorless'}"
+107905,(-)-Epicatechin gallate,{'bitter'}
+10795,"1,1-Dimethoxyethane","{'new mown hay', 'alcohol', 'green', 'sweet', 'ether', 'sharp'}"
+107971,Daidzin,{'bitter'}
+10797,2-Methylfuran,"{'ethereal', 'chocolate', 'acetone'}"
+10812,M-Cymene,{''}
+10817,1-(4-Methylphenyl)ethanol,"{'powdery', 'floral', 'nutty', 'hawthorn', 'sweet'}"
+10819,Perilla alcohol,"{'linalool', 'green', 'fatty', 'terpineol'}"
+10823,3-Ethylpyridine,"{'wine_like', 'smoky', 'floral', 'citrus', 'tobacco', 'vegetable', 'woody', 'herbaceous', 'leather', 'oakmoss', 'nutty', 'peanut', 'earthy', 'green', 'meaty', 'musty', 'spicy', 'caramel', 'fruity', 'fatty'}"
+10856614,Alpha-Selinene,{'amber'}
+10867438,Khusimone,{''}
+10873,(Ethoxymethyl)benzene,"{'pineapple', 'powerful', 'fruity'}"
+10878761,Hinesol,{''}
+10882,Ethyl pentanoate,"{'green', 'fruity', 'yeast', 'tropical', 'fruit', 'apple', 'sweet', 'pineapple'}"
+10883,Ethyl Levulinate,"{'berry', 'floral', 'pineapple', 'green', 'sweet', 'rhubarb', 'fruity'}"
+10885,Isobutyl butyrate,"{'berry', 'apple', 'pineapple', 'rum', 'sweet', 'fruity'}"
+10886,Pentyl Hexanoate,"{'sweet', 'estery', 'apple', 'green', 'pear', 'pineapple', 'fruity', 'fatty'}"
+10887828,2-Methylthioacetaldehyde,"{'sulfurous', 'potato', 'vegetable', 'garlic', 'onion', 'nutty', 'mustard'}"
+10890,Pentyl Butyrate,"{'cherry', 'pineapple', 'tropical', 'sweet', 'banana', 'fruity'}"
+10895,Isobutyl propionate,"{'tutti frutti', 'bitter', 'green', 'sweet', 'banana', 'ether', 'fruity'}"
+10902,"1,2-Ethanedithiol",{'sulfury'}
+10925,Isoamyl mercaptan,"{'onion', 'glue'}"
+10931,"3,3-Dimethylacrylic acid","{'dairy', 'alcohol', 'phenolic', 'green'}"
+10934,"2,4-Dimethylthiazole","{'roasted', 'mold', 'rubber', 'coffee', 'barley', 'beefy', 'tea'}"
+10943,"1,3-Dichlorobenzene",{''}
+10957,Isobutyl Formate,"{'sweet', 'chemical', 'ether', 'fruity'}"
+10966,Ethyl isothiocyanate,"{'mustard', 'garlic', 'pungent'}"
+10975,Myrcenol,"{'floral', 'citrus', 'lavender', 'fresh'}"
+10976,2-Heptanol,"{'fresh', 'green', 'mushroom', 'fruity', 'lemon', 'herbal', 'bitter', 'grass', 'floral', 'sweet'}"
+10979,n-Propyl nitrite,{''}
+11002,Dibutyl sulfide,"{'grassy', 'green', 'rose', 'herbal', 'violet-leaf', 'geranium'}"
+11005,Tetradecanoic acid,"{'coconut', 'waxy', 'fatty', 'soapy'}"
+11006,Hexadecane,{'alkane'}
+11027,3-Thujanone,{'cedarleaf'}
+11038,Pinocamphone,{''}
+11039,Methyl Isobutyrate,"{'apple', 'floral', 'flower', 'pineapple', 'fruity'}"
+1103,spermine,{''}
+110664,Cycloionone,{''}
+11094547,(Z)-Hex-4-enal,"{'vegetable', 'green'}"
+110968,2-Ethyl-1-hexanethiol,{''}
+111037,Alpha-Terpinyl Acetate,"{'citrus', 'wax', 'lavender', 'pine', 'sweet', 'herbal', 'lime', 'bergamot'}"
+11106485,beta-Cedrene,{''}
+1110,succinic acid,"{'odorless', 'sour'}"
+11124,Methyl Propionate,"{'strawberry', 'harsh', 'apple', 'rum', 'fresh', 'fruity'}"
+11126,2-Methylthiophene,"{'sulfurous', 'sulfur', 'roasted', 'alliaceous', 'onion', 'green'}"
+111274,UNII-R1AUQ945JN,"{'fresh', 'mint', 'minty'}"
+11128,Linamarin,{'bitter'}
+11142,Beta-Phellandrene,"{'mint', 'terpentine'}"
+11160,Methyl isovalerate,"{'pineapple', 'apple', 'strong', 'fruity'}"
+11167,Methyl Isothiocyanate,"{'mustard', 'horseradish', 'pungent'}"
+11168,Methyl Thiocyanate,{'sulfur'}
+11173,3-Methyl-2-Buten-1-Ol,"{'fruity', 'lavender', 'herb', 'green'}"
+11176,Propyl Isovalerate,"{'bitter', 'apple', 'sweet', 'fruity'}"
+1119,sulfur dioxide,{'bitter'}
+11230,Terpinen-4-ol,"{'nutmeg', 'earth', 'must', 'turpentine', 'woody', 'pepper', 'sweet', 'musty'}"
+1123,taurine,"{'bland', 'bitter'}"
+11240503,2-Mercapto-2-Methyl-1-Pentanol,{'sulfurous'}
+11251,3-Methyl-2-Butanone,{'camphor'}
+11265,2-Methyl-3-Pentanone,{'mint'}
+1130,thiamine,{'bitter'}
+11335,"2,6-Dimethylphenol","{'medicinal', 'rooty', 'coffee', 'phenolic', 'sweet'}"
+11363,"1-Phenyl-1,2-Propanedione","{'buttery', 'honey', 'pepper', 'plastic'}"
+1136,4-Methyl-5-Thiazoleethanol,"{'sulfur', 'cooked beef juice', 'fatty'}"
+11368078,"(E,E)-2,4-Decadienoic isobutylamide","{'spicy', 'herbal'}"
+1140,toluene,"{'paint', 'sweet'}"
+11449,"Octane-2,3-dione","{'broccoli', 'buttery', 'dill', 'cooked'}"
+11463,Terpinolene,"{'citrus', 'woody', 'plastic', 'pine', 'sweet', 'fresh'}"
+11467,gamma-Terpineol,"{'lilac', 'terpineol'}"
+11468,1-Terpineol,"{'dry', 'musty', 'must', 'woody'}"
+1146,trimethylamine,"{'sweaty', 'fish', 'rancid', 'oily', 'fishy', 'fruity'}"
+11508,3-Methyl-1-Pentanol,"{'cocoa', 'green', 'fruity', 'fusel', 'wine', 'cognac'}"
+11509,3-Hexanone,"{'ether', 'rum', 'waxy', 'fruity', 'grape', 'sweet'}"
+11514,Isobutyl Isovalerate,"{'apple', 'raspberry', 'green', 'sweet', 'banana', 'fruity'}"
+11520,3-Heptanol,"{'bitter', 'powerful', 'herb', 'herbal'}"
+115221,Ginkgolide A,{'bitter'}
+11523,"cis-1,4-Dimethylcyclohexane",{''}
+11527,3-Octanol,"{'melon', 'woody', 'moss', 'mushroom', 'earthy', 'nut', 'citrus', 'spicy', 'minty', 'herbal'}"
+11529,Butyl propionate,"{'rose', 'weak', 'sweet', 'banana', 'earthy'}"
+11543,2-Methyl-2-Pentanol,{'pungent'}
+11552,3-Methylbutanal,"{'chocolate', 'malt', 'ethereal', 'aldehydic', 'sour', 'peach', 'fatty'}"
+11559,alpha-Angelica lactone,{''}
+11567,3-Methylcyclohexanone,"{'camphoraceous', 'minty', 'medicinal', 'camphor'}"
+11569,3-Methoxybenzaldehyde,{'anisic'}
+11579,Levulinic Acid,"{'buttery', 'acetoin', 'acidic', 'sweet', 'caramel'}"
+11583,2-Hexanone,"{'ethereal', 'ether'}"
+11586487,(R)-beta-himachalene,{''}
+11593,Acetoxyacetone,"{'buttery', 'fruity'}"
+11613,Butyl isothiocyanate,"{'woody', 'vegetable', 'meaty', 'wine_like', 'green', 'fatty', 'earthy', 'fruity', 'citrus', 'sulfury', 'nutty', 'spicy', 'floral', 'sulfur', 'herbaceous', 'pungent'}"
+11614,Butyl Formate,"{'brandy', 'rum', 'plum', 'fruity'}"
+11617,Diallyl Sulfide,"{'metallic', 'garlic', 'horseradish', 'sulfurous', 'onion'}"
+11622,2-Tridecanone,"{'herbal', 'milky', 'nutty', 'dairy', 'waxy', 'earthy', 'coconut', 'fatty'}"
+11635,Octadecane,{'alkane'}
+11686,Dimethylmalonic Acid,{''}
+11732,3-Methyl-2-Butanol,{'fruity'}
+11744854,Sabinene hydrate,"{'balsam', 'balsamic'}"
+11746218,Caryophyllene alcohol,"{'earth', 'moss', 'spice', 'spicy', 'earthy'}"
+11747,"2,3-Pentanedione","{'cream', 'creamy', 'caramel', 'butter', 'nutty', 'cheese', 'sweet', 'pungent'}"
+117754,1-Tridecyne,{''}
+11815386,3-Hydroxy-5-methyl-2-hexanone,"{'milky', 'sour', 'cheesy'}"
+1182,DL-Valine,{'odorless'}
+11830551,(-)-alpha-Himachalene,{''}
+1183,vanillin,"{'chocolate', 'vanilla', 'creamy', 'sweet'}"
+118855872,"Glycerides, palm-oil mono- and di-, hydrogenated, 3-oxooctanoates",{''}
+11902,Methyl 2-furoate,"{'tobacco', 'mushroom', 'fungal', 'fruity', 'sweet'}"
+119900,valofin,"{'cooling', 'woody', 'bitter', 'sweet', 'fruity'}"
+1201518,(-)-Borneol,"{'woody', 'pine', 'camphor'}"
+1201521,D-Fenchone,{''}
+12020,1-Penten-3-Ol,"{'horseradish', 'pungent', 'vegetable', 'tropical', 'bitter', 'green', 'butter', 'fruity'}"
+12025,2-Pyrrolidinone,{''}
+12041,Ethyl Pyruvate,{''}
+12044,Isopropyl Isobutyrate,"{'citrus', 'pineapple', 'pear', 'sweet', 'fruity'}"
+12072,Dihydrocarveol,"{'minty', 'menthol', 'spearmint', 'spice', 'mint', 'herbal'}"
+12097,5-Methylfurfural,"{'burnt sugar', 'almond', 'maple', 'spice', 'caramel'}"
+12105,3-Methylbenzaldehyde,"{'benzaldehyde', 'cherry', 'phenolic', 'sweet', 'fruity'}"
+1213,"4a(2H)-Naphthol, octahydro-4,8a-dimethyl-","{'earth', 'soil', 'musty', 'fresh', 'earthy', 'beet'}"
+12146,Cyclohexyl Acetate,"{'ethereal', 'fruity', 'musty', 'sweet'}"
+121677,"1,1,6-Trimethyl-1,2-dihydronaphthalene",{'licorice'}
+121694,"2,5-Dimethyl-4-ethyloxazole","{'roasted', 'burnt'}"
+12170,Furfuryl acetate,"{'sweet', 'banana', 'horseradish', 'fruity'}"
+121719,Pinocarvone,{'minty'}
+12178,3-Hexanol,"{'alcoholic', 'alcohol', 'medicinal', 'ether'}"
+12180,Methyl butyrate,"{'banana', 'fruity', 'ether', 'fruit', 'apple', 'sweet', 'pineapple'}"
+12206,Methyl Valerate,"{'apple', 'pineapple', 'nutty', 'green', 'sweet', 'fruity'}"
+12209,2-Methylbutyl Acetate,"{'banana', 'overripe fruit', 'juicy', 'fruit', 'peanut', 'sweet'}"
+12225100,55896-93-0,{''}
+12230,Ethyl methyl sulfide,"{'sulfurous', 'sulfur', 'floral', 'herbaceous', 'sulfury', 'cabbage', 'meaty', 'garlic', 'spicy', 'earthy', 'fatty', 'pyridine', 'citrus', 'vegetable', 'nutty', 'green', 'fishy', 'wine_like', 'woody', 'coffee', 'tomato', 'fruity'}"
+12232,Dimethyl disulfide,"{'cabbage', 'sulfurous', 'wine_like', 'floral', 'citrus', 'vegetable', 'woody', 'herbaceous', 'onion', 'nutty', 'green', 'putrid', 'meaty', 'spicy', 'earthy', 'fruity', 'fatty'}"
+12247,4-Penten-2-Ol,{''}
+122485,"(1r,4r)-4-isopropyl-1-methylcyclohex-2-en-1-ol",{'herb'}
+12256,Ethyl Isopropyl Ether,{''}
+12257,Isopropyl Formate,"{'ethereal', 'solvent', 'cocoa', 'tropical'}"
+12266,"2,5-Dimethylfuran","{'bacon', 'ethereal', 'gravy', 'chemical', 'roast', 'meaty', 'beef'}"
+12278,2-Pentyl Acetate,"{'herbal', 'tropical'}"
+12293,Propyl Hexanoate,"{'fruit', 'juicy', 'tropical', 'pineapple', 'green', 'sweet', 'fruity'}"
+12294,Butyl hexanoate,"{'berry', 'wine', 'fruit', 'pineapple', 'fruity'}"
+12297,2-Hexanol,"{'chemical', 'winey'}"
+12302243,alpha-Calacorene,{''}
+12304610,UNII-193IW486Z8,{''}
+12305247,CID 12305247,{'wood'}
+12306047,alpha-Muurolene,"{'woody', 'wood'}"
+12306048,alpha-Cadinene,"{'dry', 'woody'}"
+123136,Allyl radical,{''}
+12315259,"2-Methyl-5-((1S,2S,4R)-2-methyl-3-methylenebicyclo[2.2.1]heptan-2-yl)pent-2-en-1-ol",{''}
+12327,Ethyl Undecanoate,"{'soapy', 'cognac', 'waxy', 'coconut', 'fatty'}"
+123388,Ethyl methyl disulfide,"{'sulfurous', 'truffle'}"
+12344,5-Methylhexanoic Acid,"{'oily', 'cheese', 'fruity', 'fatty'}"
+12348,Amyl acetate,"{'banana', 'ethereal', 'fruity'}"
+12365893,"2-Pentenal, (Z)-","{'apple', 'pungent', 'orange', 'tomato', 'green'}"
+12366,Ethyl Palmitate,"{'creamy', 'balsam', 'waxy', 'fruity', 'milky', 'wax', 'mild'}"
+12367,2-Nonanol,"{'creamy', 'cucumber', 'citrus', 'orange', 'green', 'cheese', 'waxy', 'fruity'}"
+12376292,UNII-M41Y60O5BZ,"{'grass', 'gassy', 'powerful', 'green', 'fruity'}"
+12377,Dipropyl disulfide,"{'burnt', 'green', 'earthy', 'sulfury', 'onion'}"
+12388,Tridecane,{'alkane'}
+12389,Tetradecane,"{'mild', 'waxy', 'alkane'}"
+12391,Pentadecane,"{'waxy', 'alkane'}"
+12395,1-Hexadecene,{''}
+12397,1-Pentadecanol,{''}
+12398,Heptadecane,{'alkane'}
+12401,Nonadecane,"{'bland', 'alkane'}"
+12403,Heneicosane,"{'waxy', 'alkane'}"
+12405,Docosane,"{'waxy', 'alkane'}"
+12406,Pentacosane,{''}
+12507,4-Methoxystyrene,{'sweet'}
+12508,Isopropyl Propionate,"{'sweet', 'bitter', 'pineapple', 'banana', 'ether', 'fruity'}"
+12514,"2,5-Dimethylthiophene","{'nutty', 'sulfury'}"
+12523,Phytane,{''}
+12529,Pentyl formate,"{'ethereal', 'powerful', 'green', 'unripe banana', 'earthy', 'fruity'}"
+12534,Tricosane,"{'waxy', 'alkane'}"
+125468,Tiglic Acid,"{'woody', 'caramel', 'spicy', 'dry', 'sweet'}"
+125,4-hydroxybenzyl alcohol,"{'almond', 'bitter', 'sweet', 'coconut', 'fruity'}"
+12570,2-Propylphenol,"{'medicinal', 'phenolic', 'smoky'}"
+12571,Propyl Isobutyrate,"{'berry', 'tropical', 'ripe', 'sweet', 'melon', 'fruity'}"
+12578,4'-Isopropylacetophenone,"{'spicy', 'herbal', 'woody'}"
+12580,4-Propylphenol,"{'medicinal', 'phenolic'}"
+12581,3-Phenylpropanenitrile,{''}
+12587,4-Methylpentanoic Acid,"{'cheese', 'pungent'}"
+12592,Tetracosane,{''}
+12613,Isoamyl Isovalerate,"{'green', 'mango', 'fruity', 'ripe', 'tropical', 'apple', 'sweet', 'jammy'}"
+126,4-hydroxybenzaldehyde,"{'almond', 'woody', 'nutty', 'sweet', 'balsam'}"
+12658395,Clove Oil,{''}
+1268142,Nootkatone,{''}
+12729,Ethyl 10-Undecenoate,"{'creamy', 'soapy', 'cognac', 'musty', 'waxy', 'fruity', 'clean'}"
+12741,2-Decanone,"{'floral', 'orange', 'peach', 'fatty'}"
+12748,4-Methylthiazole,"{'tomato', 'vegetable', 'green', 'nutty', 'roasted meat'}"
+12756,gamma-Caprolactone,"{'coumarin', 'tobacco', 'sweet', 'herbal', 'coconut'}"
+12777,delta-Octanolactone,"{'tonka', 'fatty', 'dairy', 'peach', 'tropical', 'coconut', 'sweet'}"
+12779,Benzyl methyl disulfide,"{'sulfurous', 'metallic', 'vegetable', 'green', 'cabbage'}"
+12810,Delta-Decalactone,"{'creamy', 'apricot', 'plum', 'oily', 'dairy', 'peach', 'sweet', 'fresh', 'butter', 'coconut', 'fruity'}"
+12813,gamma-Decalactone,"{'fresh', 'fat', 'caramel', 'strong', 'waxy', 'fatty', 'fruity', 'oily', 'peach', 'buttery', 'coconut', 'sweet'}"
+12844,Delta-Dodecalactone,"{'creamy', 'buttery', 'sweet', 'metallic', 'fruit', 'oily', 'peach', 'cheese', 'fresh', 'butter', 'coconut'}"
+12858404,(r)-(+)-dihydro-alpha-ionone,"{'woody', 'orris', 'raspberry', 'warm', 'violet', 'herbal', 'earthy'}"
+12997,1-Decyne,{''}
+13016,Benzyl methyl sulfide,"{'roasted', 'burnt', 'pork', 'chicken', 'lamb', 'beef'}"
+13026600,Ethyl 2-Hydroxy-3-Methylvalerate,"{'berry', 'fruity'}"
+13144,calcium lactate,{'odorless'}
+13187,2-Nonanone,"{'fishy', 'fresh', 'soapy', 'hot milk', 'soap', 'green', 'earthy', 'herbal', 'sweet', 'weedy'}"
+13204,delta-Hexalactone,"{'sweet', 'herbal'}"
+13233,Trithioacetone,"{'sulfurous', 'blackberry', 'burnt', 'green', 'earthy'}"
+13357,Methyl 2-methylbutyrate,"{'tutti frutti', 'apple', 'green', 'sweet', 'fruity', 'fatty'}"
+13367,Allyl Mercaptan,"{'sulfurous', 'roasted', 'alliaceous', 'garlic', 'onion'}"
+135,4-Hydroxybenzoic Acid,"{'nutty', 'phenolic'}"
+13561,6-Undecanone,{''}
+13572,6-Methylheptan-2-one,{''}
+13576,3-Decanone,"{'floral', 'citrus', 'orange', 'green', 'waxy', 'fruity'}"
+13587,3-Methylfuran,{''}
+13621,3-Ethyl-o-xylene,{''}
+13654,Isopropyl Benzoate,"{'fruit', 'floral', 'balsamic', 'sweet', 'fruity'}"
+137065,"1,3-Diphenyl-1-butanone",{''}
+137640,2564-86-5,{''}
+13849,Pentadecanoic Acid,{'waxy'}
+13854,1H-Pyrrole-2-carbaldehyde,{'ethereal'}
+138818,Methanedithiol,{'pungent'}
+138824,"3,7,11-Trimethyl-1-dodecanol",{''}
+14079,2-Acetylpyrrole,"{'bread', 'coumarin', 'walnut', 'nut', 'licorice', 'musty', 'nutty'}"
+14092,1-Methyl-3-Propylbenzene,{''}
+14104,Thymol methyl ether,"{'woody', 'burnt', 'smoky'}"
+14109402,Ganoderic acid A,{'bitter'}
+141850,1-Phenylethanethiol,"{'floral', 'meaty', 'sulfurous', 'tropical'}"
+142266,Benzyl 3-oxobutanoate,"{'benzyl acetate', 'benzyl propionate', 'floral', 'sweet', 'fruity'}"
+14228,Hexyl octanoate,"{'berry', 'apple', 'ester', 'oil', 'herb', 'green', 'waxy', 'fruity'}"
+14235,Myrcenyl acetate,"{'nutmeg', 'floral', 'citrus', 'woody', 'lavender', 'bergamot'}"
+14257,Undecane,{'alkane'}
+14286,2-Acetylpyridine,"{'corn', 'tobacco', 'fatty', 'popcorn', 'oily', 'chip', 'heavy'}"
+14296,"2,3,5,6-Tetramethylpyrazine","{'coffee', 'burnt', 'cocoa', 'chocolate', 'lard', 'musty', 'nutty', 'soybean'}"
+14328,"3',4'-Dimethoxyacetophenone","{'floral', 'sweet', 'woody'}"
+14475,2-Methylheptanoic Acid,"{'milk', 'sweaty', 'butter', 'green', 'cheese', 'waxy'}"
+14489,Prenyl acetate,"{'jasmin', 'lavender', 'ripe', 'sweet', 'banana', 'fresh', 'balsam', 'heliotrope', 'fruity'}"
+14491,"1,6-Hexanedithiol","{'meaty', 'burnt', 'fatty'}"
+14505,2-Acetylfuran,"{'caramel', 'potato', 'cocoa', 'almond', 'tobacco', 'balsamic', 'coffee', 'peanut', 'sweet', 'beef', 'balsam'}"
+14511,3-Methyl-2-Cyclohexen-1-One,"{'cherry', 'caramel', 'nut', 'phenolic'}"
+14514,2-Acetyl-5-Methylfuran,"{'coumarin', 'strong', 'milky', 'nutty', 'musty', 'coconut', 'hay'}"
+14525,Fenchone,"{'thuja', 'camphor', 'woody', 'bitter', 'cedarleaf', 'herbal', 'earthy'}"
+14529,2-(4-methylphenyl)propan-2-ol,"{'coumarin', 'camphor', 'cherry', 'fruity', 'citrus', 'floral', 'sweet', 'must'}"
+145386,Phytol,{''}
+145659,Sinensetin,{'bitter'}
+146586,Prenylthiol,"{'sulfurous', 'leek', 'onion', 'smoke', 'amine'}"
+14778,Calcium Oxide,{'odorless'}
+14896,Beta-Pinene,"{'resin', 'pine', 'turpentine', 'woody', 'green', 'dry', 'resinous', 'hay'}"
+1491,"2,4-dihydroxybenzoic acid","{'mild', 'phenolic'}"
+15037,1-Furfurylpyrrole,"{'vegetable', 'plastic', 'coffee', 'green', 'waxy', 'fruity'}"
+15094,"7-methyl-4-methylidene-1-propan-2-yl-2,3,4a,5,6,8a-hexahydro-1H-naphthalene","{'spice', 'woody', 'wood', 'herb', 'herbal'}"
+151199,2-(4-Methoxyphenoxy)propanoic acid,{'bland'}
+15268,2-Methyltetradecane,{''}
+15269,2-Methyltridecane,{''}
+15286,1-Propoxy-2-Propanol,{''}
+15380,Bis(methylthio)methane,"{'sulfurous', 'sulfur', 'horseradish', 'garlic', 'green', 'mushroom', 'cheese', 'spicy'}"
+15394,Ethyl Vinyl Ketone,"{'fish', 'garlic', 'pungent', 'onion', 'peppery', 'mustard'}"
+15406,Fenchol,"{'camphor', 'woody', 'lemon', 'dry', 'bitter', 'pine', 'sweet', 'borneol'}"
+15448,2-Undecanol,"{'fresh', 'sarsaparilla', 'clean cloth', 'cotton', 'waxy'}"
+15450,6-Methyl-1-Heptanol,{''}
+1548943,Capsaicin,"{'herbal', 'mild', 'warm'}"
+1549018,cis-Jasmone,"{'jasmine', 'jasmin', 'floral', 'woody', 'celery', 'spicy', 'herbal'}"
+1549025,Neryl acetate,"{'dewy', 'rose', 'blossom', 'citrus', 'soapy', 'pear', 'floral', 'lime', 'grapefruit', 'fruit'}"
+1549026,Geranyl Acetate,"{'green', 'rose', 'lavender', 'bitter', 'waxy', 'floral'}"
+1549040,cis-Anethole,{'anise'}
+1549041,cis-Isoeugenol,"{'spicy', 'clove'}"
+1549045,cis-Methylisoeugenol,"{'bitter', 'mild', 'clove', 'spicy'}"
+1549521,3-(2-Furyl)acrolein,{''}
+1549778,Geranylacetone,"{'fresh', 'leaf', 'aldehydic', 'green', 'fruity', 'rose', 'floral', 'magnolia'}"
+155007,Lilac aldehyde,"{'floral', 'lilac'}"
+1550470,Ethyl Sorbate,{''}
+15504,Ethylcyclohexane,{''}
+1550846,Cinnamonitrile,"{'cinnamon', 'cassia', 'cumin', 'nitrile', 'deep'}"
+1550884,Hexyl cinnamic aldehyde,"{'herbal', 'jasmin', 'floral', 'green', 'fresh', 'waxy'}"
+1550890,Cinnamyl cinnamate,{''}
+15558051,WLN: R1U1VO1R,"{'cherry', 'floral', 'apricot', 'pineapple', 'peach', 'chocolate', 'sweet', 'balsam', 'fruity'}"
+15560285,(+)-gamma-Gurjunene,{'musty'}
+155626,"P-Mentha-2,8-dien-1-ol",{''}
+15600,Decane,{'alkane'}
+15606,Methyl Nonanoate,"{'waxy', 'coconut', 'fruity', 'tropical', 'wine', 'sweet', 'pear'}"
+15654,4-Methyl-5-Vinylthiazole,"{'cocoa', 'vegetable', 'root', 'nutty', 'musty'}"
+15801179,99583-29-6,{''}
+15824502,UNII-27Y1FYY1BV,{'fruity'}
+15877,2-Methyl-1-butanethiol,"{'meaty', 'sulfurous', 'bloody'}"
+159055,D-Camphor,"{'medicinal', 'camphor', 'woody', 'minty', 'bitter', 'phenolic', 'herbal'}"
+15979,Pristane,{''}
+160799,Cedrelanol,"{'odorless', 'balsam', 'earthy'}"
+161120,Ginkgolide C,{'bitter'}
+1616260,23726-92-3,{''}
+16217806,Vitamin U,"{'potato', 'malty', 'sulfury', 'tomato', 'green'}"
+16220110,cis-3-Hexenyl crotonate,"{'vegetable', 'green'}"
+162293,"2,4-Dimethyl-5-ethylthiazole","{'earth', 'roasted', 'nutty', 'meaty', 'earthy'}"
+16237,Ethyl 3-phenylpropionate,"{'rose', 'hyacinth', 'rum', 'flower', 'honey', 'fruity'}"
+162392,9-Decenal,"{'rose', 'dewy', 'floral', 'aldehydic', 'waxy'}"
+162458,Methyl N-formylanthranilate,"{'fruity', 'grape'}"
+162464,Cirsilineol,{''}
+16255,Isopentyl octanoate,"{'soapy', 'pineapple', 'oily', 'green', 'sweet', 'coconut', 'fruity'}"
+16296,Pentyl Benzoate,"{'amber', 'balsam', 'green', 'floral', 'musky'}"
+16315,Diallyl trisulfide,"{'onion', 'garlic', 'metallic', 'green'}"
+16330,Butyl salicylate,"{'ethyl benzoate', 'clover', 'harsh'}"
+16441,Perillaldehyde,"{'fresh', 'cherry', 'sweet', 'fat', 'grassy', 'oily', 'green', 'spice', 'cumin', 'mint', 'herbal', 'fatty'}"
+165224,1-Isothiocyanato-6-(methylthio)hexane,{'radish'}
+16537,Terpinyl formate,"{'floral', 'citrus', 'bitter', 'lavender', 'fruity'}"
+16590,Diallyl Disulfide,"{'onion', 'alliaceous', 'metallic', 'garlic'}"
+16591,Allyl Propyl Disulfide,"{'onion', 'alliaceous', 'garlic', 'green'}"
+16592,Methyl propyl disulfide,"{'onion', 'sulfury', 'tomato', 'radish', 'mustard'}"
+16617,Isopentyl hexanoate,"{'apple', 'green', 'pineapple', 'banana', 'fruity'}"
+16666,l-Menthol,"{'cooling', 'mentholic', 'tobacco', 'minty', 'camphoraceous', 'peppermint'}"
+16724,d-Carvone,"{'bread', 'caraway', 'spice'}"
+16741,Phenethyl isothiocyanate,"{'green', 'watercress', 'horseradish', 'bitter', 'gooseberry'}"
+16800,2-Pentylpyridine,"{'fat', 'green', 'mushroom', 'fatty', 'herbal', 'pepper', 'tallow'}"
+16821,gamma-Dodecalactone,"{'metallic', 'fruit', 'peach', 'flower', 'sweet', 'musty', 'fruity', 'fatty'}"
+16832,Isopropyl Hexanoate,"{'berry', 'pineapple', 'logenberry', 'fresh', 'fruity'}"
+16835,3-Methylhexan-2-ol,{''}
+16846,Propyl Benzoate,"{'nutty', 'balsam'}"
+16872,Hexyl isobutyrate,"{'berry', 'wine', 'apple', 'ripe', 'pear', 'grape', 'sweet', 'green', 'fruity'}"
+169110,2-Acetyl-2-thiazoline,"{'toasted', 'potato', 'chip', 'corn', 'nutty', 'popcorn', 'bread', 'roast', 'taco'}"
+16997,5-Ethyl-2(5H)-furanone,{'spice'}
+17000,"2,2,6-Trimethylcyclohexanone","{'cistus', 'labdanum', 'pungent', 'thujone', 'honey'}"
+17008,Methyl 4-methylvalerate,{''}
+17016,"2,3,6-Trimethylphenol",{''}
+17029,"9-Octadecenal, (9E)-",{''}
+170833,Isopulegol,"{'cooling', 'woody', 'medicinal', 'minty'}"
+17100,alpha-TERPINEOL,{''}
+1711944,UNII-3KCT4WMT7E,"{'ether', 'flower'}"
+1711945,Farnesyl acetone,{''}
+17121,1-Octen-3-yl acetate,"{'oily', 'lavender', 'green', 'fresh', 'herbal', 'fruity'}"
+17129,2-METHYLBUTYL 2-METHYLBUTYRATE,"{'berry', 'apple', 'ester', 'green', 'sweet', 'waxy', 'fruity'}"
+1713001,Nerylacetone,"{'fresh', 'rose', 'wine_like', 'floral', 'citrus', 'vegetable', 'woody', 'herbaceous', 'tropical', 'nutty', 'magnolia', 'green', 'meaty', 'spicy', 'waxy', 'earthy', 'fruity', 'fatty'}"
+173843,Sedanenolide,{'herbal'}
+1742211,Caryophyllene oxide,"{'fresh', 'woody', 'dry', 'herb', 'spice', 'sweet', 'spicy'}"
+17525,Hexyl Butyrate,"{'apple peel', 'apple', 'soapy', 'green', 'sweet', 'waxy', 'fruity'}"
+1757003,Pseudoionone,"{'powdery', 'dusty', 'waxy', 'citrus', 'spicy', 'dry', 'balsamic', 'floral', 'sweet'}"
+17623,Methyl 2-Acetamidobenzoate,"{'very mild', 'powdery', 'strawberry', 'fruity'}"
+17691,3-Methyl-2-Cyclopenten-1-One,"{'fruity', 'sweet', 'fatty'}"
+17697,Pentadecanal,"{'fresh', 'waxy'}"
+176983,"p-Mentha-1,3,8-triene","{'turpentine', 'herbal', 'woody', 'camphor'}"
+176,acetic acid,"{'pungent', 'vinegar', 'sour', 'sharp'}"
+17739,2-Methoxy-4-Propylphenol,"{'allspice', 'anise', 'powdery', 'soapy', 'phenol', 'pepper', 'clove', 'fishy', 'phenolic', 'sweet', 'spicy', 'balsam', 'sharp'}"
+177,acetaldehyde,"{'ethereal', 'aldehydic', 'fruity', 'ether', 'whiskey', 'pungent'}"
+17868,3-Thujene,"{'herb', 'woody', 'green', 'wood'}"
+17898,2-Methoxy-3-Methylpyrazine,{''}
+17899,3-Methylpentadecane,{''}
+178,acetamide,{'mousy'}
+179,acetoin,"{'cream', 'creamy', 'butter', 'fatty', 'dairy', 'milky', 'buttery', 'sweet'}"
+180,acetone,"{'apple', 'ethereal', 'solvent', 'pear'}"
+181128,Saupirin,{'bitter'}
+18467,2-Methoxypyrazine,"{'sweet', 'nutty', 'cocoa'}"
+184852,6-isothiocyanatohex-1-ene,{''}
+18522,2-Methyltetrahydrofuran-3-One,"{'bread', 'nutty', 'buttery', 'solvent', 'sweet'}"
+18554,2-Ethylfuran,"{'burnt', 'sweet', 'earthy', 'malty'}"
+185635,28374-89-2,{'bitter'}
+18635,3-(Methylthio)propionaldehyde,"{'cooked potato', 'beef', 'vegetable', 'creamy', 'potato', 'peanut', 'musty', 'tomato', 'fishy', 'earthy'}"
+18645216,"4-(But-2-en-1-ylidene)-3,5,5-trimethylcyclohex-2-enone",{''}
+18686,Ethyl cyclohexanecarboxylate,"{'cheese', 'winey', 'fruit', 'fruity'}"
+18698,Delta-Nonalactone,"{'creamy', 'coumarin', 'milky', 'coconut', 'sweet'}"
+18815,1-Chlorooctadecane,{''}
+18818,Sabinene,"{'pine', 'spice', 'turpentine', 'woody', 'wood', 'citrus', 'pepper', 'terpene'}"
+18827,1-Octen-3-Ol,"{'fishy', 'green', 'raw', 'chicken', 'fungal', 'mushroom', 'oily', 'earthy'}"
+1889,DL-Liquiritigenin,{'bitter'}
+18938,"3,5,5-Trimethylhexan-1-ol","{'weedy', 'leaf', 'floral', 'grassy', 'aldehydic', 'hay', 'straw', 'green', 'earthy'}"
+19089,(2-Methoxyethyl)benzene,"{'rose', 'chrysanthemum', 'metallic', 'jasmin', 'floral', 'green'}"
+19188,Phenoxyacetic Acid,"{'sweet', 'sour'}"
+19244,Neoisomenthol,{'menthol'}
+19309,3658-77-3,"{'strawberry', 'almond', 'candy', 'sugar', 'grape', 'sweet', 'cotton', 'caramel'}"
+19310,Dimethyl trisulfide,"{'cooked', 'fish', 'meaty', 'onion', 'sulfurous', 'cabbage', 'sulfur', 'savory'}"
+19315,7-Octen-2-One,{''}
+19602,2-Pentylfuran,"{'beany', 'green bean', 'earthy', 'green', 'metallic', 'butter', 'fruity', 'vegetable'}"
+19603,2-Heptylfuran,"{'green', 'fatty', 'roasted', 'oily', 'nutty', 'lactonic'}"
+19695,"1,1-Diethoxy-3-Methylbutane","{'fruity', 'fatty'}"
+196,adipic acid,{'odorless'}
+19707,"2,3-Hexanedione","{'creamy', 'oily', 'dry', 'phenolic', 'sweet', 'butter', 'caramel', 'fruity', 'fatty'}"
+19754,Methyl propyl sulfide,"{'leek', 'alliaceous', 'creamy', 'green'}"
+20083,Octan-2-ol,"{'fresh', 'fat', 'woody', 'green', 'mushroom', 'spicy', 'herbal', 'earthy'}"
+20149,Tetracontane,{''}
+20499,Difurfuryl Disulfide,"{'roasted', 'onion', 'coffee', 'sulfury', 'chicken', 'cabbage', 'meaty'}"
+20534,2-Butylfuran,"{'fruity', 'spicy', 'wine', 'mild', 'sweet'}"
+206037,Berteroin,"{'cabbage', 'radish'}"
+20653,2-Methylhexanoic Acid,"{'fatty', 'lard', 'fruity', 'oily', 'cheese'}"
+20745,6-Methylhept-5-en-2-ol,"{'oily', 'coriander', 'sweet', 'green'}"
+20748,Methyl cyclohexanecarboxylate,"{'berry', 'milk', 'fruit', 'estery', 'ester', 'pineapple', 'fruity'}"
+20797,4674-50-4,"{'gardenia', 'citrus', 'woody', 'grapefruit peel', 'grapefruit'}"
+20819,Disodium 5'-inosinate,{'odorless'}
+20861,4-Ethylbenzaldehyde,"{'sweet', 'almond', 'bitter'}"
+20928,1-Hexen-3-Ol,"{'ethereal', 'rum', 'green'}"
+20995,2-Pentylthiophene,"{'fruit', 'sweet', 'cranberry', 'fruity', 'fatty'}"
+21057,1-Hepten-3-Ol,"{'metallic', 'oily', 'tomato', 'green', 'acrylate', 'spicy'}"
+21108,8-Nonen-2-one,"{'baked', 'fruity'}"
+21116845,UNII-3QMX06VZ0C,{''}
+21159022,CID 21159022,"{'woody', 'green', 'wood'}"
+21159448,UNII-VD2YQW659E,{''}
+21160126,Pregeijerene,{''}
+21265,Prenyl benzoate,"{'ylang', 'chocolate', 'tea', 'balsam', 'fruity'}"
+21587486,55123-21-2,{''}
+21596,Butyl Heptanoate,"{'marigold', 'cut grass', 'apple', 'herbal', 'fruity'}"
+21606187,Linden ether,"{'mint', 'floral'}"
+21648,4-(4-Hydroxyphenyl)-2-butanone,"{'berry', 'jam', 'floral', 'raspberry', 'ripe', 'sweet'}"
+21675005,Agarospirol,{''}
+21712,5550-12-9,{''}
+21828,"2-Methyl-1,3-dithiolane","{'sulfurous', 'sulfur', 'alliaceous', 'vegetable', 'savory', 'smoky'}"
+219794,5-Hydroxyoctan-4-one,"{'sweet', 'pungent', 'buttery', 'nut'}"
+220674,L-Menthyl acetate,"{'rose', 'mango', 'minty', 'raspberry', 'orange', 'camphoraceous', 'tea', 'mint', 'herbal', 'melon', 'fruity'}"
+2214,Acetovanillone,"{'sweet', 'vanilla', 'faint', 'vanillin'}"
+221691,Hexyl phenylacetate,"{'rose', 'wine', 'foliage', 'green', 'sweet', 'waxy', 'fruity'}"
+22201,"2,3-Dimethylpyrazine","{'coffee', 'cocoa', 'caramel', 'walnut', 'leather', 'butter', 'nut', 'meat', 'nutty', 'almond', 'peanut', 'peanut butter'}"
+22227,d-Dihydrocarvone,"{'herbal', 'minty'}"
+222284,Beta-Sitosterol,{''}
+222285,Erythritol,"{'sweet-like', 'odorless'}"
+222656,L-Malic acid,{'odorless'}
+22310,Epoxylinalool,"{'fenchyl', 'alcohol', 'musty', 'camphor'}"
+22311,Dipentene,"{'citric', 'herbal', 'citrus', 'woody', 'terpene', 'lemon', 'camphor', 'orange'}"
+22383,Dipropyl trisulfide,"{'sulfurous', 'garlic', 'tropical', 'onion', 'green'}"
+22386,2-Pentanol,"{'fermented', 'green', 'oil', 'fusel', 'mild'}"
+22556,2-Dodecanone,"{'orange', 'citrus', 'floral', 'fruity'}"
+226486,"4-Allyl-2,6-dimethoxyphenol","{'roasted', 'bacon', 'ham', 'burnt', 'flower', 'sweet', 'meaty', 'smoky'}"
+227829,Guaiol,"{'rose', 'wood', 'guaiacwood', 'balsamic', 'mild', 'tea'}"
+22833654,HMDB05796,{'bitter'}
+228548,"4,4-Dimethoxy-2-butanone","{'alcoholic', 'ethereal', 'bitter', 'nutty', 'musty'}"
+228583,2-Furylacetone,"{'radish', 'spicy'}"
+22873,Hexyl Hexanoate,"{'apple peel', 'cut grass', 'vegetable', 'peach', 'fresh', 'herbal', 'fruity'}"
+228769,Octyl isovalerate,"{'rose', 'floral', 'mild', 'warm', 'honey'}"
+229377,Propyl heptanoate,"{'wine', 'strawberry', 'apple', 'pineapple', 'ripe', 'pear', 'grape', 'sweet', 'green', 'fruity'}"
+229387,Decyl butyrate,"{'sweet', 'slightly rose', 'waxy', 'fruity'}"
+229888,2-Phenylethyl octanoate,"{'cocoa', 'green', 'sweet', 'waxy', 'fruity'}"
+231325,1-(furan-2-yl)pentan-1-one,"{'sweet', 'caramel'}"
+23235,Hexyl benzoate,"{'woody', 'sappy', 'fresh', 'balsam', 'clean'}"
+23367,Benzyl Hexanoate,"{'gardenia', 'jasmin', 'apricot', 'green', 'fruity'}"
+2345,Benzyl Benzoate,"{'almond', 'cheese', 'cherry', 'balsamic', 'oil', 'herbal', 'herb', 'strawberry', 'sweet', 'pineapple', 'balsam', 'faint', 'oily'}"
+2346,benzyl isothiocyanate,"{'dusty', 'watercress', 'horseradish', 'oily', 'medicinal', 'mild'}"
+235284,MLS002607979,{'bitter'}
+235414,Oxacyclohexadecan-2-one,"{'musky', 'musk', 'powdery', 'natural', 'animal', 'fruity'}"
+23642,2-Methoxybenzenethiol,"{'sulfurous', 'powdery', 'spicy', 'sausage', 'phenolic', 'sweet', 'meaty', 'smoked'}"
+23662384,Sodium Diacetate,{'bland'}
+23676745,Potassium Sorbate,{'odorless'}
+237332,5-Hydroxymethylfurfural,"{'caramel', 'waxy', 'fatty', 'musty', 'cardboard'}"
+238782,"5,7-Dihydroxyflavanone",{'bitter'}
+24020,Ethyl 2-methylbutyrate,"{'apple', 'plum', 'green', 'sweet', 'fruity', 'sharp'}"
+240925,"2,6-Dimethoxy-4-methylphenol","{'medicinal', 'woody', 'eugenol', 'root', 'phenolic', 'smoke', 'spice', 'caramel'}"
+240,benzaldehyde,"{'burnt sugar', 'almond', 'cherry', 'sweet', 'strong', 'sharp', 'bitter'}"
+24115,Acetyl isobutyryl,"{'creamy', 'buttery', 'sweet', 'fruity', 'fatty'}"
+24197,Diethyl Malate,{''}
+24261,Silica,{'odorless'}
+243783,Cyclohexyl butyrate,"{'apple', 'fruity', 'pineapple'}"
+243,benzoic acid,"{'faint', 'urine', 'balsam'}"
+24433,Butyl Anthranilate,"{'berry', 'wine', 'powdery', 'floral', 'petitgrain', 'plum', 'grape', 'sweet', 'fruity'}"
+24434,Potassium Nitrate,{'odorless'}
+24473,Dihydrocarvone,"{'minty', 'powerful', 'warm', 'spearmint', 'herbal'}"
+244,benzyl alcohol,"{'balsamic', 'berry', 'phenolic', 'rose', 'floral', 'flower', 'grapefruit', 'cherry', 'sweet', 'walnut'}"
+24516,Isobutyl heptanoate,"{'herbal', 'fruity', 'green'}"
+24619,Calcium Iodate,{'odorless'}
+246728,3-Octanone,"{'butter', 'fresh', 'lavender', 'herb', 'sweet', 'mushroom', 'resin', 'herbal'}"
+247573,Isobornyl acetate,"{'camphor', 'woody', 'sweet', 'herbal', 'balsam'}"
+247,betaine,{'bland'}
+24832101,"Santalol, alpha- and beta-","{'sweet', 'woody', 'sandalwood', 'deep'}"
+24834,4-Ethoxybenzaldehyde,"{'floral', 'spicy', 'sweet', 'anisic'}"
+24838,Hexyl 2-methylbutanoate,"{'strawberry', 'apple', 'tropical', 'green', 'spicy', 'waxy', 'fruity'}"
+249494,"3,7-Dimethyloctane-1,7-diol","{'lily', 'floral', 'peony', 'mild', 'green', 'clean'}"
+250096,Benzyl tiglate,"{'rose', 'balsamic', 'mushroom', 'earthy'}"
+25021769,"2-Propen-1-one, 3-(4-hydroxyphenyl)-1-phenyl-",{'bitter'}
+2519,caffeine,"{'odorless', 'bitter'}"
+25310,L-Rhamnose,"{'odorless', 'sweet'}"
+25311,Tridecanal,"{'grapefruit peel', 'aldehydic', 'fresh', 'waxy', 'petal', 'flower', 'citrus', 'clean', 'sweet', 'must', 'soapy'}"
+25611,2-Methyl-3-Heptanone,"{'leafy', 'green', 'fruity'}"
+25793,3-Methyl-1-Hexanol,{''}
+25915,2-Ethyl-5-Methylpyrazine,"{'fruit', 'bean', 'coffee', 'sweet'}"
+25916,"3-Ethyl-2,5-dimethylpyrazine","{'roasted', 'potato', 'cocoa', 'nutty', 'roast'}"
+26049,3-Carene,"{'resin', 'citrus', 'sweet', 'lemon'}"
+26058,"2,2,4,6,6-Pentamethylheptane",{''}
+261491,alpha-Thujone,"{'bitter', 'cedarleaf'}"
+261,butyraldehyde,"{'cocoa', 'apple', 'floral', 'herbaceous', 'malty', 'chocolate', 'meaty', 'creamy', 'pungent', 'spicy', 'earthy', 'fatty', 'citrus', 'vegetable', 'nutty', 'pear', 'green', 'wine_like', 'woody', 'musty', 'bready', 'fruity'}"
+26204,"5-Methylhexane-2,3-dione","{'creamy', 'fruity', 'sweet', 'butter', 'brown', 'sharp'}"
+262,"2,3-butanediol","{'creamy', 'fruity', 'buttery', 'fruit', 'onion'}"
+263034,Difurfuryl ether,"{'nutty', 'coffee'}"
+263,1-butanol,"{'medicine', 'vanilla', 'balsam', 'oil', 'fusel', 'fruit', 'medicinal', 'sweet'}"
+26331,2-Ethylpyrazine,"{'roasted', 'cocoa', 'wood', 'woody', 'peanut butter', 'bitter', 'nutty', 'peanut', 'musty', 'butter'}"
+26332,2-Ethyl-6-Methylpyrazine,"{'roasted', 'potato'}"
+26333,2-Isobutyl-3-Methylpyrazine,"{'sugar', 'herbal', 'syrup', 'green'}"
+26334,"2-Ethyl-3,5-Dimethylpyrazine","{'potato', 'roasted nuts', 'burnt almonds', 'coffee', 'roast'}"
+26335,2-Methyl-5-Vinylpyrazine,{'coffee'}
+263620,ethyl 3-acetoxy-2-methylbutanoate,{'fruity'}
+26447,Menthone,"{'camphoraceous', 'bitter', 'herbal', 'peppermint', 'deep', 'menthol', 'raspberry', 'camphor'}"
+264,butyric acid,"{'fruit', 'rancid', 'acetic', 'sweat', 'cheese', 'butter', 'sharp'}"
+26808,"2,3,5-Trimethylpyrazine","{'cocoa', 'powdery', 'earthy', 'roasted', 'hazelnut', 'musty', 'nutty', 'roast', 'potato', 'peanut', 'must'}"
+2682,1-Hexadecanol,"{'flower', 'wax', 'floral', 'waxy'}"
+27208,beta-Bisabolol,"{'fresh', 'citrus', 'herb', 'lemon', 'herbal', 'floral', 'sweet', 'tangy'}"
+27209,"4,4,7a-Trimethyl-5,6,7,7a-tetrahydrobenzofuran-2(4H)-one","{'musk', 'coumarin', 'woody', 'ripe apricot', 'red fruit'}"
+2733294,trans-2-Hexenyl acetate,"{'fresh', 'privet', 'banana peel', 'green', 'waxy', 'apple skin', 'sweet'}"
+2734646,"2,3-Dimethylbenzofuran","{'fennel', 'tobacco', 'chemical', 'phenolic', 'smoke', 'smoky'}"
+27440,2-Ethyl-4-Methylthiazole,"{'nutty', 'pistachio', 'green'}"
+27457,2-Ethyl-3-Methylpyrazine,"{'bread', 'corn', 'raw', 'sweat', 'earthy', 'hazelnut', 'musty', 'nutty', 'roast', 'potato', 'peanut'}"
+27458,"2,3-Diethylpyrazine","{'pepper', 'hazelnut', 'nutty', 'raw', 'green'}"
+27460,"5-Ethyl-2,3-dimethylpyrazine","{'popcorn', 'burnt'}"
+275196,noscapine,{'bitter'}
+2757,Cinchonidine,{'bitter'}
+2758,Eucalyptol,"{'eucalyptus', 'camphor', 'pepper', 'sweet', 'mint', 'herbal'}"
+2762759,"2,5-dimethylthiophene-3-carbaldehyde",{''}
+27866,Rose oxide,"{'fresh', 'red rose', 'green', 'geranium', 'spicy'}"
+27867,Menthyl acetate,"{'orange', 'camphoraceous', 'melon', 'raspberry'}"
+27892,1-Octen-3-yl butyrate,"{'animal', 'mushroom', 'fishy', 'butter', 'fruity'}"
+284,formic acid,"{'pungent', 'vinegar', 'formyl'}"
+287687,"Carotol, (+)-","{'mild', 'pleasant'}"
+2879,P-Cresol,"{'medicinal', 'mimosa', 'phenol', 'medicine', 'narcissus', 'animal', 'phenolic', 'smoke'}"
+288227,Valencen,"{'asprin', 'citrus', 'woody', 'oily', 'orange', 'dry', 'green', 'sweet', 'fresh', 'oil', 'grapefruit'}"
+28905,"2,3-Diethyl-5-Methylpyrazine","{'roasted', 'wine_like', 'meat', 'potato', 'floral', 'citrus', 'vegetable', 'hazelnut', 'woody', 'herbaceous', 'nutty', 'green', 'roast', 'meaty', 'musty', 'spicy', 'earthy', 'fruity', 'fatty'}"
+28906,"3,5-Diethyl-2-Methylpyrazine","{'meaty', 'baked', 'nutty', 'vegetable'}"
+289151,Longifolene,"{'rose', 'fir needle', 'woody', 'medical', 'sweet'}"
+28930,alpha-Fenchene,{'camphor'}
+29025,Verbenone,{''}
+2969,Decanoic acid,"{'fat', 'citrus', 'unpleasant', 'rancid', 'sour', 'fatty'}"
+2998,Nonivamide,"{'bland', 'odorless'}"
+29995,20189-42-8,{''}
+3017596,"2,5-Dimethyl-4-ethoxy-3(2H)-furanone","{'brandy', 'caramellic', 'fruity'}"
+3018936,80417-97-6,"{'hay', 'coconut', 'coumarin', 'tonka'}"
+30215,"2,4,5-Trimethyloxazole","{'nut skin', 'vegetable', 'mustard', 'roasted', 'nutty', 'wasabi', 'shellfish'}"
+30248,Dihydrocarvyl acetate,"{'medicine', 'camphor', 'cuminseed', 'mint', 'minty', 'rose', 'medicinal', 'floral', 'sweet'}"
+3026,dibutyl phthalate,{'faint'}
+3033866,Bisabolene,{''}
+30771,2-Cyclohexylethyl acetate,"{'rose', 'plant', 'plastic', 'raspberry', 'green', 'mint'}"
+3084331,T-Muurolol,"{'spicy', 'herbal', 'herb', 'weak spice'}"
+3085213,Eugenyl isovalerate,"{'clove', 'fruity'}"
+30914,Acetylpyrazine,"{'chip', 'hazelnut', 'corn', 'nutty', 'bread crust', 'popcorn', 'coffee', 'tomato', 'chocolate', 'roast', 'bitter'}"
+30945,3-Methyl-2(5H)-furanone,{''}
+309,Aconitic Acid,"{'nutty', 'very mild', 'musty'}"
+3102,Benzophenone,"{'metallic', 'balsam', 'powdery', 'apricot', 'peach', 'rose', 'geranium'}"
+311,citric acid,{'odorless'}
+31209,122-40-7,{''}
+31210,Butyl phenylacetate,"{'rose', 'honey', 'chocolate'}"
+31211,Vanillylacetone,"{'vanilla', 'ginger', 'woody', 'animal', 'clove', 'phenolic', 'sweet', 'spicy'}"
+31219,Benzyl Propionate,"{'berry', 'jam', 'jasmine', 'jasmin', 'strawberry', 'apple', 'floral', 'sweet', 'banana', 'balsam', 'fruity'}"
+31225,2-Phenylethyl propionate,"{'styrax', 'floral', 'red rose', 'balsam', 'honey', 'fruity'}"
+31226,3-Phenylpropyl acetate,"{'storax', 'bitter', 'sweet', 'spicy', 'balsam', 'cinnamon'}"
+31231,4-Methoxyphenylacetone,"{'anisic', 'sweet', 'spicy', 'balsam', 'fruity'}"
+31234,3-Phenylpropan-1-ol,"{'anise', 'fruit', 'mignonette', 'hyacinth', 'sweet', 'cinnamyl', 'spicy', 'balsam', 'cinnamon'}"
+31237,Dodecylbenzene,{''}
+31242,4-Ethylphenol,"{'medicinal', 'alcohol', 'castoreum', 'phenol', 'guaiacol', 'phenolic', 'smoke', 'spice'}"
+31244,4-Methoxybenzaldehyde,"{'berry', 'creamy', 'vanilla', 'balsam', 'powdery', 'hawthorne', 'chocolate', 'cherry', 'hawthorn', 'mint', 'mimosa', 'almond', 'minty', 'anise', 'bitter', 'floral', 'sweet', 'cinnamon'}"
+31245,2-Methylpentanal,"{'ethereal', 'fruity', 'green'}"
+31246,4-Heptanone,"{'strawberry', 'fruity', 'cheese', 'peanut', 'sweet', 'pineapple', 'cognac'}"
+31249,Diethyl Succinate,"{'wine', 'fruit', 'apple', 'apricot', 'cooked', 'mild', 'peach', 'chocolate', 'pear', 'grape', 'ylang', 'cranberry', 'musty', 'fruity'}"
+31251,Ethyl Nonanoate,"{'rose', 'wine', 'natural', 'tropical', 'rum', 'waxy', 'fruity'}"
+31252,"2,5-Dimethylpyrazine","{'grass', 'medicinal', 'cocoa', 'roasted nut', 'roasted nuts', 'woody', 'medical', 'medicine', 'roast beef'}"
+31253,Myrcene,"{'peppery', 'spice', 'plastic', 'balsam', 'spicy', 'balsamic', 'terpene', 'must'}"
+31256,Diacetone alcohol,{''}
+31260,3-Methyl-1-butanol,"{'alcoholic', 'banana', 'fruity', 'oil', 'fusel', 'burnt', 'malt', 'whiskey'}"
+31265,Ethyl caproate,"{'apple peel', 'fruit', 'pineapple', 'green', 'sweet', 'banana', 'waxy', 'fruity'}"
+31266,Allyl hexanoate,"{'ethereal', 'sweet', 'fatty', 'fruity', 'tropical', 'arrack', 'rum', 'pineapple', 'cognac'}"
+31268,Pyrrolidine,"{'egg', 'ammoniacal', 'animal', 'alkaline', 'amine'}"
+31272,Butyl acetate,"{'ethereal', 'banana', 'fruity', 'solvent', 'pear'}"
+31276,Isoamyl Acetate,"{'banana', 'fruity', 'bitter', 'solvent', 'sweet'}"
+31278,Butyl Stearate,"{'oily', 'mild', 'fatty'}"
+31283,Ethyl tetradecanoate,"{'soapy', 'orris', 'sweet', 'waxy', 'ether', 'violet'}"
+31284,Methyl tetradecanoate,"{'orris', 'fatty', 'waxy', 'petal'}"
+31289,Nonanal,"{'fat', 'peely', 'orris', 'green', 'rose', 'citrus', 'orange peel', 'fresh', 'aldehydic', 'waxy', 'fishy', 'fatty', 'lime', 'grapefruit'}"
+31291,Tetradecanal,"{'amber', 'incense', 'waxy', 'fatty', 'flower', 'dry', 'musk', 'wax', 'citrus peel'}"
+31353,Linalyl benzoate,"{'heather', 'lily', 'gardenia', 'tuberose', 'genet', 'broom', 'bergamot'}"
+313,hydrochloric acid,{''}
+31404,"2,6-Di-tert-butyl-4-methylphenol","{'vanilla', 'camphor', 'mild', 'phenolic', 'musty'}"
+31408,Nopol,"{'citrus', 'balsamic', 'pine', 'sweet', 'herbal'}"
+31492,"2,4,5-Trimethyl-3-Oxazoline","{'wood', 'nutty', 'green', 'musty', 'caramel'}"
+32033,"3,5-Dimethyl-1,2,4-Trithiolane","{'beefy', 'meaty', 'sulfurous'}"
+32065,23747-48-0,"{'baked', 'earthy', 'nut', 'roasted', 'roast', 'potato', 'peanut'}"
+32093,2-Acetyl-3-Methylpyrazine,"{'toasted', 'roasted', 'vegetable', 'nutty', 'grain'}"
+323,coumarin,"{'green', 'bitter', 'tonka', 'new mown hay', 'sweet'}"
+324224,.beta.-Bourbonene,"{'herb', 'herbal', 'woody'}"
+325,4-isopropylbenzyl alcohol,"{'cumin', 'wood', 'strong', 'leather', 'caraway', 'spicy', 'herb', 'herbal'}"
+32594,2-Isobutyl-3-Methoxypyrazine,"{'earth', 'pepper', 'green pepper', 'green', 'pea', 'spice', 'galbanum', 'bell'}"
+326240,Nomilin,{'bitter'}
+326,4-isopropylbenzaldehyde,"{'acid', 'oily', 'green', 'cumin', 'spicy', 'herbal', 'sharp'}"
+329983,Menthofuran,"{'pungent', 'nutty', 'coffee', 'musty', 'earthy'}"
+33032,L-glutamic acid,"{'baked', 'mild', 'yeast', 'bread'}"
+330573,(-)-cis-Carveol,"{'caraway', 'spearmint'}"
+33135,2-Ethyl-3-Methoxypyrazine,"{'raw', 'earthy', 'nutty', 'bell', 'pepper', 'potato'}"
+3314,eugenol,"{'woody', 'clove', 'honey', 'spicy', 'sweet', 'cinnamon'}"
+33166,2-Isopropyl-3-Methoxypyrazine,"{'earth', 'earthy', 'beany', 'pea'}"
+3321360,"3-Methylcyclohexane-1,2-dione",{''}
+332,2-Methoxy-4-vinylphenol,"{'clove', 'peanut', 'curry', 'spicy', 'smoky'}"
+335,o-cresol,"{'musty', 'phenol', 'phenolic', 'medicinal'}"
+33637,2-Methylanisole,"{'floral', 'nutty', 'warm', 'flower', 'sweet', 'earthy', 'walnut'}"
+338,salicylic acid,"{'faint', 'nutty', 'phenolic'}"
+33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,"{'butterscotch', 'candy', 'sweet', 'caramel'}"
+33934,Diisooctyl phthalate,{''}
+33960,6-Pentyl-2H-pyran-2-one,"{'creamy', 'almond', 'fatty', 'mushroom', 'lactonic', 'waxy', 'coconut', 'tonka'}"
+34134,"2,6-Nonadien-1-ol","{'cucumber', 'green', 'vegetable'}"
+34286,2-Methyl-3-furanthiol,"{'metallic', 'meat', 'sulfury', 'fishy', 'meaty', 'coconut'}"
+342,m-cresol,"{'medicinal', 'woody', 'medical', 'plastic', 'leather', 'phenolic', 'fecal'}"
+34645,Isopulegone,"{'fresh', 'herbal', 'peppermint'}"
+3473,gingerol,{'pungent'}
+35349,Ethyl Propyl Disulfide,"{'onion', 'green', 'garlic', 'sulfurous'}"
+354616,Gentianine,{'bitter'}
+356,octane,"{'alkane', 'gasoline'}"
+35821,Dihydro-alpha-ionone,{''}
+3591866,Oxacycloheptadec-7-en-2-one,{''}
+36225,"2,5-Diethyl-3-Methylpyrazine","{'meaty', 'hazelnut', 'toasted'}"
+3648225,STK737742,"{'vanilla', 'bitter', 'very mild'}"
+36822,"5,6,7,8-Tetrahydroquinoxaline","{'roasted', 'bean', 'chip', 'corn', 'nut', 'cheese', 'musty', 'cereal'}"
+37109,2-Ethylcyclobutanol,{''}
+371257,Oxycanthine,{'bitter'}
+3776,isopropanol,"{'bitter', 'alcohol', 'musty', 'woody'}"
+379,octanoic acid,"{'vegetable', 'rancid', 'oily', 'cheesy', 'sweat', 'cheese', 'waxy', 'fatty'}"
+381152,Piperitenone,"{'minty', 'phenolic', 'sharp'}"
+3819217,489-53-2,{'bitter'}
+387977,Curcumenol,"{'fresh', 'fatty'}"
+3879,lanatoside C,"{'metallic', 'fatty'}"
+3893,lauric acid,"{'bay oil', 'metal', 'mild', 'coconut', 'fatty'}"
+402,hydrogen sulfide,"{'egg', 'rotten'}"
+403919,CHEBI:49249,{'balsamic'}
+4114,methoxsalen,{'bitter'}
+4133,methyl salicylate,"{'mint', 'peppermint', 'wintergreen'}"
+42011,"3,6-Nonadien-1-ol",{''}
+4276,Myristicin,"{'balsamic', 'woody', 'warm', 'spice', 'balsam'}"
+429065,Ethyl Crotonate,{''}
+43263,2-Pentyl butyrate,"{'apricot', 'cashew', 'sweet', 'banana', 'herbal', 'fruity'}"
+439246,naringenin,{'bitter'}
+439250,(-)-Limonene,"{'pine', 'peppery', 'herbal', 'terpene', 'camphoraceous'}"
+439263,(+)-Neomenthol,"{'camphoraceous', 'mentholic', 'sweet', 'minty'}"
+439341,alpha-Maltose,"{'odorless', 'sweet'}"
+439533,Taxifolin,{'bitter'}
+439570,(-)-Carvone,"{'mint', 'spearmint', 'minty', 'herbal', 'sweet'}"
+440917,D-Limonene,"{'fresh', 'citrus', 'lemon', 'orange', 'sweet', 'mint'}"
+440936,arbutin,{'bitter'}
+440967,(-)-beta-Pinene,"{'woody', 'dry', 'hay', 'pine', 'green', 'fresh', 'resinous'}"
+440968,(-)-alpha-Pinene,"{'pine', 'warm', 'fresh', 'resinous', 'sharp'}"
+441005,(+)-delta-Cadinene,"{'dry', 'herbal', 'thyme', 'medicine', 'woody', 'wood'}"
+441484,alpha-L-Sorbopyranose,"{'bitter', 'sweet'}"
+442009,carnosol,{'bitter'}
+44229138,(RS)-norcoclaurinium,"{'fruity', 'milky', 'sweet'}"
+442343,Levomenol,"{'nutty', 'herb', 'coconut', 'fruity'}"
+442353,beta-Chamigrene,{''}
+442355,AC1L9CNW,"{'spice', 'woody', 'wood'}"
+442384,5986-55-0,"{'patchouli', 'earthy', 'powdery', 'camphor'}"
+442393,Beta-Selinene,{''}
+442428,naringin,{'bitter'}
+442462,Carvone oxide,"{'mint', 'spearmint', 'sweet', 'spicy', 'caraway'}"
+442482,(R)-(-)-alpha-Phellandrene,"{'terpene', 'medicinal'}"
+442495,(+)-Pulegone,{''}
+442501,(+)-alpha-Terpineol,"{'lilac', 'citrus', 'woody', 'anise', 'terpene', 'floral', 'pine', 'oil', 'mint'}"
+443156,(+)-3-Carene,"{'sweet', 'lemon'}"
+443158,(-)-Linalool,"{'floral', 'natural', 'woody', 'lavender', 'fresh', 'deep'}"
+443160,(+)-alpha-phellandrene,{'dill'}
+443162,(-)-alpha-Terpineol,"{'floral', 'lilac'}"
+443167,(+)-isodihydrocarvone,"{'herb', 'herbal', 'warm'}"
+444212,trans-Aconitic acid,"{'toasted', 'vegetable', 'dry', 'nut', 'musty'}"
+444539,Cinnamic Acid,"{'balsam', 'sweet', 'honey', 'storax'}"
+444972,fumaric acid,"{'odorless', 'sour'}"
+445070,farnesol,"{'anise', 'grapefruit', 'orange', 'balsam', 'lily', 'fresh', 'mild', 'pear', 'muguet', 'sweet', 'angelica', 'linden', 'waxy', 'clove', 'floral'}"
+445154,resveratrol,{'bitter'}
+4453,"1-(4-{[4,5-dihydroxy-6-(hydroxymethyl)-3-[(3,4,5-trihydroxy-6-methyloxan-2-yl)oxy]oxan-2-yl]oxy}-2,6-dihydroxyphenyl)-3-(3-hydroxy-4-methoxyphenyl)propan-1-one","{'bland', 'sweet-like'}"
+445638,palmitoleic acid,{''}
+445639,oleic acid,"{'fat', 'waxy', 'fatty', 'lard', 'faint', 'fried'}"
+446925,Lycopene,"{'oriental', 'balsam'}"
+447466,Crotonaldehyde,{''}
+448996,2-Nonen-4-one,{'fruity'}
+449290,(+)-trans-Limonene oxide,{'green'}
+454,Octanal,"{'citrus', 'fatty', 'waxy', 'soap', 'lemon', 'orange peel', 'green', 'aldehydic', 'fat'}"
+4564493,19322-27-1,"{'caramel', 'candy', 'sugar', 'sweet', 'cotton', 'bready'}"
+460,guaiacol,"{'spice', 'medicine', 'woody', 'vanilla', 'phenolic', 'smoke', 'medicinal', 'sweet', 'smoky'}"
+4650,p-benzoquinone,{''}
+46779070,S-Methyl 4-methylpentanethioate,{''}
+4680,papaverine,{'bitter'}
+473,4-Methylthio-2-oxobutanoic acid,{''}
+4788,phloretin,"{'bitter', 'odorless'}"
+49,3-Methyl-2-oxobutanoic acid,{'fruity'}
+4947,propyl gallate,"{'bland', 'bitter'}"
+5018391,Sedanolide,{'herbal'}
+5054,resorcinol,"{'creamy', 'nutty', 'hawthorn', 'phenolic', 'musty'}"
+513197,Isoxanthohumol,{'bitter'}
+5144,safrole,"{'anise', 'sassafrass', 'floral', 'woody', 'warm', 'spice', 'sweet', 'spicy'}"
+517827,103-95-7,"{'cyclamen', 'fresh', 'floral', 'green', 'musty', 'rhubarb'}"
+518472,Bornyl formate,"{'earth', 'camphor', 'woody', 'medical', 'pine', 'green', 'musty', 'herbal', 'balsam', 'earthy'}"
+518810,3-Mercaptohexyl acetate,"{'passion fruit', 'floral', 'tropical', 'box tree', 'pear', 'fruity'}"
+518856,"2,5-Diethyl-4-methylthiazole","{'green', 'nutty'}"
+518937,Furfuryl methyl sulfide,"{'horseradish', 'pungent', 'vegetable', 'garlic', 'onion', 'sulfury'}"
+519158,3-Decanol,"{'fatty', 'mushroom', 'orange', 'musty', 'floral'}"
+519323,"p-Mentha-1,5-dien-8-ol",{''}
+519361,"(5xi,7xi,10xi)-eudesma-4(14),11-diene","{'herb', 'herbal'}"
+519382,Dihydro-beta-ionone,"{'amber', 'mahogany', 'woody', 'earthy', 'orris', 'dry'}"
+519539,2-sec-Butylthiazole,"{'raw', 'green', 'pepper', 'herbal'}"
+519662,l-.alpha.-Cadinol,"{'herb', 'wood'}"
+519732,5-Ethyl-2-methylthiazole,{''}
+519764,.beta.-Sesquiphellandrene,"{'herbal', 'woody', 'fruity', 'wood'}"
+519786,Isopentyl isobutyrate,"{'apricot', 'green', 'pineapple', 'banana', 'waxy', 'fruity'}"
+519823,3-Methyl-2-butanethiol,"{'beefy', 'meaty', 'repulsive'}"
+519845,Methyl 3-hydroxyhexanoate,"{'juicy', 'woody', 'pineapple', 'oily', 'ripe', 'sweet', 'fruity'}"
+519857,Cubenol,"{'herb', 'green', 'green tea', 'tea', 'spice', 'spicy', 'herbal'}"
+519890,Methyl 2-methylpentanoate,"{'berry', 'fruity', 'hazelnut', 'tropical', 'apple'}"
+520098,24168-70-5,"{'earth', 'carrot', 'pepper', 'green', 'pea', 'musty', 'galbanum', 'bell'}"
+520108,2-Acetylthiazole,"{'chocolate', 'nut', 'popcorn', 'hazelnut', 'nutty', 'roast', 'sulfur', 'roasted peanuts'}"
+520144,1-Mercapto-2-propanone,{''}
+520148,Phenethyl 2-methylbutyrate,"{'rose', 'floral', 'tropical', 'green', 'sweet', 'waxy'}"
+520191,"3-Acetyl-2,5-dimethylthiophene","{'meaty', 'roasted', 'burnt'}"
+520296,delta-Tetradecalactone,"{'creamy', 'oil', 'milky', 'dairy', 'sweet', 'waxy', 'fatty'}"
+520326,3-Methylbutyl 2-methylbutanoate,"{'cherry', 'apple', 'citrus', 'blueberry', 'sweet', 'fruity'}"
+520440,1-p-Menthen-9-al,{''}
+520455,Octyl 2-methylbutyrate,"{'fruity', 'green', 'musty', 'waxy'}"
+520682,3-Mercapto-3-methyl-1-butanol,"{'roasted', 'vegetable', 'meat broth', 'sweet', 'spicy'}"
+520895,"3,5-Diethyl-1,2,4-trithiolane",{'sulfurous'}
+521185,"4,8-Methanoazulen-9-ol, decahydro-2,2,4,8-tetramethyl-, stereoisomer","{'earth', 'spicy', 'woody', 'earthy'}"
+521238,3-Octyl acetate,{''}
+521246,3-oxobutan-2-yl acetate,"{'sweet', 'pungent', 'buttery', 'creamy'}"
+521253,(-)-Zingiberene,"{'fresh', 'sharp', 'spice'}"
+521300,1-Hydroxybutan-2-one,"{'coffee', 'butterscotch', 'sweet', 'musty', 'malt', 'grain'}"
+521332,STK020088,"{'weedy', 'clary', 'amber', 'woody', 'sweet', 'balsam'}"
+521334,gamma-Selinene,"{'woody', 'wood'}"
+521380,"Naphthalene, 1,2,4a,5,8,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-","{'woody', 'green'}"
+521869,S-Methyl propanethioate,"{'sulfurous', 'dairy', 'milky', 'alliaceous'}"
+521873,"2-Furanmethanethiol, 5-methyl-","{'sulfurous', 'sulfur', 'roasted', 'coffee', 'roast'}"
+521902,"Disulfide, 1-methylpropyl propyl",{''}
+522071,2-heptanethiol,"{'vegetable', 'sulfurous', 'skunky', 'onion', 'sweaty', 'pungent'}"
+522111,Butyl ethyl disulfide,"{'onion', 'sulfurous', 'garlic', 'cooked'}"
+522214,Isopropyl 2-methylbutyrate,"{'ethereal', 'tropical', 'oily', 'pineapple', 'green', 'sweet', 'fruity'}"
+522266,Spathulenol,"{'earthy', 'fruity', 'herb', 'herbal', 'fruit'}"
+522458,Butyl propyl disulfide,{'sulfurous'}
+522459,Methyl pentyl disulfide,"{'onion', 'sulfurous'}"
+522514,Linaloyl oxide,{''}
+522676,Isoamyl nonanoate,"{'fruity', 'oily', 'floral', 'apricot'}"
+523035,"2,3-Dehydro-1,8-cineole","{'mint', 'lemon'}"
+524200,Silveterpinolene,{''}
+524975,"2,6-Dimethoxy-4-propylphenol",{'phenolic'}
+525358,ethyl methyl trisulfide,"{'onion', 'garlic', 'green'}"
+526152,Methyl 5-acetoxyhexanoate,{'fruity'}
+526195,4-Methoxy-2-methyl-2-butanethiol,"{'sulfurous', 'cat', 'tropical', 'minty', 'catty', 'blackcurrant', 'black currant'}"
+526487,3-Mercapto-3-methylbutyl formate,"{'roasted', 'cat', 'sweaty', 'roast', 'herbal', 'fruity'}"
+526624,Bis(2-methyl-3-furyl)disulfide,"{'roasted', 'scallion', 'onion', 'roasted meat', 'sulfury', 'meaty'}"
+526762,"1,3-p-Menthadien-7-al","{'spice', 'spicy', 'fatty', 'fat'}"
+526853,"1-(3,4-dihydro-2H-1,4-thiazin-5-yl)ethanone","{'nutty', 'roasted', 'cooked'}"
+527144,P-Menth-1-en-9-yl acetate,"{'fruit', 'herb', 'warm', 'spicy', 'herbal', 'fruity'}"
+5273467,Isopentyl cinnamate,"{'cocoa', 'floral', 'amber', 'musty', 'orchid'}"
+527435,3-Mercapto-2-methylpentanal,"{'onion', 'sulfurous'}"
+527498,"1(2H)-Naphthalenone, octahydro-7.alpha.-isopropyl-4a.beta.,8a.beta.-dimethyl-, (+)-",{''}
+5275520,Geranic Acid,"{'weedy', 'woody', 'lemon', 'acidic', 'dry', 'green', 'feet', 'moldy'}"
+5275726,5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)tetradecan-3-one,"{'musk', 'woody'}"
+527,Propionaldehyde,"{'alcohol', 'cocoa', 'earthy', 'nutty', 'solvent', 'wine', 'whiskey', 'pungent'}"
+5280343,quercetin,{'bitter'}
+5280435,Phytol,"{'delicate', 'balsam', 'powdery', 'waxy', 'flower', 'floral'}"
+5280443,apigenin,{'bitter'}
+5280445,luteolin,{'bitter'}
+5280450,linoleic acid,"{'fatty', 'faint'}"
+5280462,Vomifoliol,{'fruity'}
+5280511,(Z)-cinnamyl alcohol,"{'balsam', 'powdery', 'bitter', 'oil', 'sweet', 'green', 'hyacinth', 'spicy', 'cinnamic'}"
+5280598,Farnesal,"{'floral', 'minty'}"
+5280666,Chrysoeriol,{'bitter'}
+5280804,Isoquercitrin,{'odorless'}
+5280863,kaempferol,{'bitter'}
+5281162,3025-30-7,"{'creamy', 'apple', 'tropical', 'green', 'pear', 'sweet', 'waxy', 'fruity'}"
+5281163,Ethyl tiglate,"{'berry', 'tutti frutti', 'floral', 'raspberry', 'tropical', 'sweet', 'caramel', 'fruity'}"
+5281167,(Z)-Hex-3-en-1-ol,"{'fresh', 'vegetable', 'green', 'leafy', 'foliage', 'oily', 'grass', 'herbal', 'cut grass'}"
+5281168,trans-2-Hexenal,"{'banana', 'aldehydic', 'fat', 'vegetable', 'rancid', 'green', 'cheesy', 'leafy', 'fatty', 'fruity', 'almond', 'apple', 'sweet', 'plum'}"
+5281222,butein,{'bitter'}
+5281404,Harmane,{'bitter'}
+5281428,Artemorin,{'bitter'}
+5281515,Beta-Caryophyllene,"{'dry', 'woody', 'spice', 'wood', 'clove', 'sweet'}"
+5281516,alpha-Farnesene,"{'myrrh', 'neroli', 'lavender', 'wood', 'green', 'citrus', 'herbal', 'sweet', 'lime', 'bergamot'}"
+5281517,(E)-beta-farnesene,{''}
+5281520,Humulene,{''}
+5281534,Alpha-Sinensal,"{'citrus', 'mandarin', 'orange'}"
+5281535,beta-Sinensal,{''}
+5281544,Oleuropein,{'bitter'}
+5281553,Ocimene,"{'terpene', 'citrus', 'woody', 'tropical', 'herb', 'green', 'sweet', 'herbal'}"
+5281607,chrysin,{'bitter'}
+5281611,"3,7,4'-Trihydroxyflavone",{'bitter'}
+5281614,Fisetin,{'bitter'}
+5281617,Genkwanin,{'bitter'}
+5281654,Isorhamnetin,{'bitter'}
+5281670,morin,{'bitter'}
+5281680,Quercetagetin,{'bitter'}
+5281697,Scutellarein,{'bitter'}
+5281701,Tricetin,{'bitter'}
+5281707,Coumestrol,{'bitter'}
+5281708,daidzein,{'bitter'}
+5281804,Prunetin,{'bitter'}
+5281929,Methyl jasmonate,{''}
+5281,stearic acid,"{'mild', 'fatty', 'odorless'}"
+5282108,Alpha-Ionone,"{'wood', 'floral', 'woody', 'orris', 'tropical', 'raspberry', 'sweet', 'violet', 'fruity'}"
+5282109,Geranyl formate,"{'neroli', 'fresh', 'green', 'tea', 'rose', 'bitter'}"
+5282110,Cinnamyl acetate,{''}
+5282184,Ethyl Linoleate,{''}
+5282707,trans-2-Hexenoic acid,{''}
+5282708,trans-3-Hexenoic acid,{''}
+5282716,3-Octenoic Acid,"{'oily', 'fatty'}"
+5282724,2-Decenoic acid,"{'oily', 'sweet', 'fresh', 'waxy', 'fruity'}"
+5282726,4-Decenoic acid,{''}
+5282800,"(10E,12Z)-octadeca-10,12-dienoic acid",{''}
+5283316,(E)-Hept-2-enal,"{'fat', 'pungent', 'almond', 'vegetable', 'soap', 'green', 'fresh', 'fatty'}"
+5283321,"trans,trans-2,4-Heptadienal","{'hazelnut', 'cinnamon'}"
+5283324,trans-2-Octenal,"{'banana', 'leaf', 'fresh', 'fat', 'cucumber', 'green', 'waxy', 'fatty', 'nut', 'herbal'}"
+5283329,"(2E,4E)-Octa-2,4-dienal","{'cucumber', 'green', 'pear', 'melon', 'seaweed', 'fatty'}"
+5283335,trans-2-Nonenal,"{'cucumber', 'green', 'waxy', 'melon', 'paper', 'fatty'}"
+5283339,"trans,trans-2,4-Nonadienal",{''}
+5283345,trans-2-Decenal,"{'coriander', 'aldehydic', 'green', 'waxy', 'fatty', 'earthy', 'mushroom', 'orange', 'oily', 'rose', 'tallow', 'floral'}"
+5283349,"(2E,4E)-deca-2,4-dienal","{'melon', 'fresh', 'fat', 'sweet', 'cucumber', 'green', 'fatty', 'nut', 'orange', 'meat', 'citrus', 'oily', 'wax', 'pumpkin', 'fried'}"
+5283356,2-Undecenal,"{'fat', 'citrus', 'soap', 'green', 'sweet', 'fresh', 'orange peel', 'fruity'}"
+5283361,trans-2-Dodecenal,"{'herbal', 'metallic', 'fat', 'citrus', 'aldehydic', 'orange', 'green', 'sweet', 'mandarin', 'waxy', 'fruity'}"
+5283383,"9,12-Octadecadienal",{''}
+5284421,Methyl Linoleate,{''}
+5284503,trans-3-Hexen-1-ol,"{'earthy', 'fatty', 'fresh', 'green', 'moss', 'bitter', 'intensely'}"
+5284507,Nerolidol,"{'wood', 'floral', 'citrus', 'woody', 'wax', 'green', 'flower', 'waxy'}"
+5284639,NSC5112,{'bitter'}
+5284656,(Z)-Ethyl cinnamate,"{'berry', 'powdery', 'honey', 'plum', 'flower', 'sweet', 'spicy', 'balsam', 'fruity', 'cinnamon'}"
+528698,42348-12-9,"{'sweet', 'maple'}"
+528708,.alpha.-Calacorene,"{'woody', 'wood'}"
+528763,1203-08-3,{''}
+529056,101517-87-7,"{'roasted', 'peanut', 'cocoa'}"
+529251,2-propionyl-1-pyrroline,"{'fishy', 'roasted', 'roast'}"
+529253,Acetoyl butyrate,"{'berry', 'creamy', 'acetic', 'cheese', 'dried berry', 'butter', 'fruity'}"
+529388,UNII-H5E892YJGG,{''}
+529481,"3-methylnonane-2,4-dione","{'fruit', 'burnt', 'straw', 'caramel', 'fruity'}"
+529496,2-Heptyl butanoate,"{'vegetable', 'green', 'fruity'}"
+5311110,50-69-1,{''}
+5315594,AC1NST8Q,"{'herb', 'herbal'}"
+5315892,cinnamyl alcohol,"{'balsam', 'powdery', 'bitter', 'green', 'sweet', 'hyacinth', 'spicy', 'cinnamic'}"
+5315912,(Z)-Cinnamyl acetate,"{'floral', 'sweet', 'spicy', 'balsam', 'cinnamon'}"
+5317309,Falcarindiol,{'bitter'}
+5317319,beta-cis-farnesene,"{'citrus', 'woody', 'sweet', 'wood'}"
+5317570,(-)-Germacrene D,"{'spice', 'woody', 'wood'}"
+5318042,trans-2-Hexen-1-Ol,"{'alcohol', 'fresh', 'leaf', 'green', 'leafy', 'pepper', 'fruit', 'walnut', 'unripe banana', 'fruity', 'wine'}"
+5318103,AC1NSWDQ,"{'herb', 'herbal'}"
+5318517,Andrographolide,{'bitter'}
+5318557,Isoelemicin,"{'spice', 'flower'}"
+5318599,trans-2-Octen-1-Ol,"{'citrus', 'plastic', 'green', 'soap'}"
+5318734,Juniper camphor,{''}
+5319706,Methyl Linolenate,{''}
+5319754,2-Methyl-2-Pentenal,{''}
+5319765,Methyl propyl trisulfide,"{'metallic', 'green', 'garlic', 'sulfurous', 'onion'}"
+5320250,(Z)-Beta-Ocimene,"{'floral', 'citrus', 'herb', 'warm', 'flower', 'sweet'}"
+5320722,Propenyl propyl disulfide,"{'onion', 'sulfurous', 'cooked'}"
+5321950,Tiglic aldehyde,"{'ethereal', 'green', 'anisic', 'fruity', 'nutty', 'fruit', 'pungent'}"
+5322111,Caryophyllene,"{'spicy', 'woody', 'wood'}"
+5323650,Methyl sorbate,"{'pungent', 'licorice', 'fruity'}"
+5324489,cis-2-Hexen-1-ol,{''}
+53425122,1-(Ethyltrisulfanyl)propane,"{'onion', 'alliaceous', 'garlic', 'green'}"
+534429,2-Pentadecyn-1-ol,{''}
+53472027,D-Isoleucine Methyl Ester Hydrochloride,{''}
+5352162,Neryl butyrate,"{'leaf', 'green', 'waxy', 'fatty', 'orange', 'oily', 'fruity', 'tropical', 'rose', 'fruit', 'apple', 'sweet', 'raspberry'}"
+5352428,(Z)-4-Hydroxy-6-dodecenoic acid lactone,"{'creamy', 'dairy', 'peach', 'sweet', 'waxy', 'fruity', 'fatty'}"
+5352437,(E)-gamma-Bisabolene,"{'balsam', 'spicy', 'citrus', 'opoponax', 'myrrh'}"
+5352438,16491-36-4,"{'fresh', 'metallic', 'green', 'fruity', 'buttery', 'apple', 'wine'}"
+5352460,68698-59-9,"{'grape', 'apple', 'green', 'pear', 'banana', 'waxy'}"
+5352461,trans-2-Hexenyl butyrate,"{'apple', 'grassy', 'green', 'banana', 'fruity', 'orchid'}"
+5352463,2-Hexenyl propanoate,"{'apple', 'pear', 'fruity', 'green'}"
+5352481,"5,6-Epoxy-beta-ionone","{'berry', 'powdery', 'fruit', 'wood', 'woody', 'orris', 'sweet', 'violet', 'fruity'}"
+5352539,41519-23-7,"{'cut grass', 'apple', 'cut privet', 'green', 'pear', 'fruity'}"
+5352543,cis-3-Hexenyl hexanoate,"{'fruit', 'grassy', 'winey', 'prune', 'tropical', 'pear', 'green', 'pineapple', 'waxy', 'fruity'}"
+5352626,Jasmine lactone,{''}
+5352770,Ethyl cis-4-octenoate,{''}
+5352774,Methyl (Z)-oct-4-enoate,{''}
+5352830,4-DECENYL ACETATE (Z),"{'oily', 'rose', 'spicy', 'floral'}"
+5352837,cis-5-Octen-1-ol,"{'watery', 'fresh', 'melon', 'watermelon'}"
+5352876,"3,5-Octadien-2-one","{'fruit', 'fat', 'grassy', 'green', 'mushroom', 'fruity', 'fatty'}"
+5352905,"4-Propenyl-2,6-dimethoxyphenol","{'sweet', 'spicy'}"
+5352973,(E)-2-Hexenyl hexanoate,"{'waxy', 'natural', 'cognac', 'green', 'herbal', 'clean'}"
+5353545,MLS002702988,{'bitter'}
+5353547,Cucurbitacine E,{'bitter'}
+5354763,Allyl crotonate,{''}
+5354833,cis-2-Nonenal,"{'aldehydic', 'fat', 'cucumber', 'green', 'waxy', 'fatty', 'orris', 'citrus'}"
+5354882,Neryl formate,"{'rose', 'tea', 'green', 'geranium', 'herbal', 'fruity'}"
+5354896,alpha-Methyl cinnamaldehyde,"{'sweet', 'spicy', 'cassia', 'cinnamon'}"
+5355853,Geranyl propionate,{'bitter'}
+5355856,Geranyl butyrate,{''}
+5356544,Peruviol,"{'wax', 'mild', 'floral'}"
+5362563,"2,4-Dimethyl-5-vinylthiazole","{'nutty', 'cocoa'}"
+5362572,67860-38-2,"{'meaty', 'burnt'}"
+5362579,UNII-842I7XQG7D,{''}
+5362583,Ethyl trans-4-decenoate,"{'waxy', 'fruity', 'cognac', 'green'}"
+5362588,81925-81-7,"{'nut skin', 'myrcene', 'hazelnut', 'filbert', 'nutty', 'nut', 'raw', 'sweet', 'ketonic'}"
+5362592,"Propyl 2,4-decadienoate","{'pear', 'melon', 'green', 'fatty'}"
+5362616,(Z)-Hept-2-enal,{''}
+5362622,Ethyl 3-Hexenoate,{''}
+5362623,Ethyl (Z)hex-3-enoate,"{'sweet', 'metallic', 'apple', 'green', 'pear', 'pineapple', 'fresh', 'fruity'}"
+5362661,2-Isopropyl-5-methyl-2-hexenal,{''}
+5362696,"2,4-Decadien-1-ol","{'citrus', 'waxy', 'melon', 'fatty'}"
+5362720,cis-6-Nonenal,"{'cucumber', 'cantaloupe', 'green', 'waxy', 'melon'}"
+5362782,"3-Hexenoic acid, methyl ester","{'sweet', 'earthy', 'slightly fruity'}"
+5362792,cis-6-Nonen-1-ol,"{'cucumber', 'honeydew', 'cantaloupe', 'green', 'fresh', 'waxy', 'melon', 'clean'}"
+5362814,cis-4-Heptenal,"{'creamy', 'milky', 'biscuit', 'oily', 'dairy', 'cream', 'green', 'fatty'}"
+5362819,methyl (Z)-3-hexenoate,"{'floral', 'fruity'}"
+5362830,Geranyl isovalerate,{'bitter'}
+5362833,"trans,cis-2,6-Nonadien-1-ol","{'cucumber', 'leafy', 'oily', 'green', 'violet'}"
+5363140,5-Methyl-3-Hexen-2-One,"{'sweet', 'cheese', 'berry'}"
+5363229,3-Octen-2-One,"{'hay', 'crushed bug', 'nut', 'blueberry', 'mushroom', 'sweet', 'spicy', 'herbal', 'earthy'}"
+5363231,7-Methyloct-3-en-2-one,"{'floral', 'fruity'}"
+5363269,Ethyl oleate,{''}
+5363291,cis-3-Hexenyl pyruvate,"{'melon rind', 'cucumber skin', 'oily', 'green', 'banana peel', 'tea'}"
+5363388,cis-3-Hexenyl acetate,"{'apple', 'fresh', 'banana', 'grassy', 'fruity', 'sweet', 'green'}"
+5363526,Ocimene quintoxide,{''}
+5363741,gamma-Ionone,"{'floral', 'woody'}"
+5363817,alpha-Ionol,"{'floral', 'woody', 'tropical', 'ionone', 'sweet', 'violet'}"
+5363896,4-Methyl-2-phenyl-2-pentenal,"{'cocoa', 'powdery', 'nutty', 'rose', 'sweet'}"
+5364231,cis-3-Hexenyl lactate,"{'leaf', 'leafy', 'tropical', 'green', 'sweet', 'waxy', 'melon', 'fruity', 'violet'}"
+5364399,Ethyl 2-octenoate,"{'must', 'fruit', 'pungent', 'oil', 'tropical', 'green', 'waxy', 'fruity'}"
+5364409,Methyl 2-Hexenoate,"{'green', 'pineapple', 'earthy', 'fruity', 'fatty'}"
+5364430,Ethyl elaidate,"{'milky', 'tallow', 'oily', 'dairy', 'waxy', 'fatty'}"
+5364438,(Z)-7-Hexadecenal,{''}
+5364519,cis-3-Octen-1-ol,"{'powerful', 'fresh', 'melon', 'fruity', 'fatty'}"
+5364532,Methyl oct-2-enoate,"{'pear skin', 'fruity'}"
+5364578,3-Hepten-2-One,"{'caraway', 'grassy', 'green'}"
+5364631,cis-3-Nonen-1-ol,"{'melon rind', 'tropical', 'green', 'mushroom', 'fresh', 'waxy'}"
+5364752,trans-2-Pentenal,"{'strawberry', 'fruit', 'apple', 'pungent', 'orange', 'tomato', 'green', 'fruity'}"
+5364778,Ethyl hex-2-enoate,"{'juicy', 'vegetable', 'rum', 'green', 'sweet', 'fruity'}"
+5364789,Butyl angelate,"{'rose', 'wine', 'spicy', 'fruity'}"
+5364919,cis-2-Penten-1-ol,"{'ethereal', 'plastic', 'green', 'rubber', 'fruity'}"
+5364920,trans-2-Penten-1-ol,"{'green', 'mushroom'}"
+5364941,trans-2-Nonen-1-ol,"{'green', 'melon', 'waxy', 'violet'}"
+5365004,trans-2-Undecen-1-ol,"{'floral', 'rose', 'waxy'}"
+5365027,cis-2-Nonen-1-ol,"{'slightly waxy', 'melon', 'sweet'}"
+5365049,cis-3-Hexenyl propionate,"{'apple', 'leafy', 'green', 'pear', 'fresh', 'waxy', 'fruity'}"
+5365069,53398-85-9,"{'apple', 'herb', 'green', 'pear', 'sweet', 'fresh', 'fruity'}"
+5365587,cis-3-Hexenyl formate,"{'grassy', 'vegetable', 'green', 'sweet', 'fresh', 'waxy', 'sharp'}"
+5365706,"3,6-Nonadien-1-ol, (E,Z)-",{''}
+5365710,"1,3-Hexadiene, 3-ethyl-2-methyl-",{''}
+5365811,4-Hexen-3-One,"{'ethereal', 'green', 'tropical', 'metallic', 'spicy', 'pungent'}"
+5365850,Geranyl valerate,{''}
+5365891,2-Octen-4-one,{''}
+5365909,2-Methyl-2-Pentenoic Acid,{''}
+5365982,Neryl propionate,"{'berry', 'fresh', 'green', 'waxy', 'fruity', 'tropical', 'rose', 'bitter', 'floral', 'jammy'}"
+5365991,Neryl isobutyrate,"{'strawberry', 'raspberry', 'green', 'sweet', 'fresh', 'fruity'}"
+5365992,Geranyl caproate,{''}
+5366038,"2-Butenoic acid, hexyl ester",{''}
+5366074,Damascenone,"{'rose', 'apple', 'tobacco', 'sweet', 'honey', 'smoky'}"
+5366077,alpha-Damascone,{''}
+5366155,Isoamyl angelate,"{'floral', 'fruity', 'chamomile'}"
+5366244,Phytol,{''}
+5366264,Hotrienol,{'mouldy'}
+5366352,Acetaldehyde ethyl cis-3-hexenyl acetal,{''}
+5366552,"Disulfide, methyl 1-propenyl",{''}
+5366844,Methyl 3-nonenoate,{''}
+5366856,"4-Octenoic acid, methyl ester","{'pineapple', 'fresh'}"
+5367369,Ethyl arachidonate,{''}
+5367412,"1,3,5-Undecatriene",{''}
+5367530,"(2E,4E)-Dodeca-2,4-dienal","{'orange', 'grapefruit', 'citrus', 'fatty'}"
+5367531,"(2E,4E)-Undeca-2,4-dienal","{'spicy', 'caramellic'}"
+5367681,cis-3-Hexenyl isovalerate,"{'apple', 'tropical', 'green', 'pineapple', 'fresh', 'fruity'}"
+5367682,cis-3-Hexenyl pentanoate,"{'apple', 'kiwi', 'unripe banana', 'tropical', 'pear', 'green', 'fruity'}"
+5367698,cis-3-Hexenyl phenylacetate,"{'rose', 'kiwi', 'beany', 'tropical', 'green', 'pea', 'sweet', 'waxy', 'honey'}"
+5367706,cis-3-Hexenyl benzoate,"{'fresh', 'leaf', 'balsam', 'orchid', 'green', 'fatty', 'floral'}"
+5367719,Methyl jasmonate,"{'fresh', 'melon', 'oily', 'waxy', 'jasmine', 'petal', 'magnolia', 'floral'}"
+5367752,84254-89-7,{''}
+5367785,Geranyl tiglate,"{'geranium', 'herbal', 'sweet', 'fruity'}"
+5367807,Angelic Acid Isobutyl Ester,"{'cooling', 'woody', 'green', 'celery', 'sweet', 'spicy', 'herbal', 'caraway'}"
+5368103,"1-Butene, 1-(methylthio)-, (E)-",{'sulfurous'}
+5368821,Alloocimene,{''}
+5370052,3-Oxo-alpha-ionol,"{'spicy', 'spice'}"
+5370101,"6-Methylhepta-3,5-dien-2-one",{''}
+5370602,5-Methyl-2-phenyl-2-hexenal,"{'nut skin', 'cocoa', 'aldehydic', 'bitter', 'chocolate', 'green', 'butyric', 'sweet', 'fruity'}"
+5371002,alpha-Irone,"{'berry', 'powdery', 'floral', 'woody', 'orris', 'violet'}"
+5372813,Alpha-Methylcinnamaldehyde,{''}
+5372954,cis-Cinnamic acid,"{'balsam', 'honey', 'storax', 'sweet', 'cinnamon'}"
+5373603,3-Propylidenephthalide,{''}
+5373729,beta-Ionol,"{'floral', 'woody', 'tropical', 'sweet', 'herbal', 'balsam', 'violet'}"
+5374527,beta-Damascone,"{'berry', 'rose', 'floral', 'apple', 'tobacco', 'plum', 'blackcurrant', 'honey', 'fruity'}"
+5377381,"5,7-Dihydroxyisoflavone",{'bitter'}
+537754,3-Mercaptohexyl butyrate,"{'passion fruit', 'sulfurous', 'overripe fruit', 'tropical', 'fruity'}"
+5399110,(2R)-2-isothiocyanatobutane,{'green'}
+5429,theobromine,{'bitter'}
+543579,Pentadecyl acrylate,{''}
+543912,14-Bromopentadecanoic acid,{''}
+544628,"5,6-dimethyloxan-2-one","{'fruity', 'minty'}"
+5462988,"methyl (9E,12Z)-octadeca-9,12-dienoate",{'bland'}
+5463238,2-Hepten-4-One,{'ethereal'}
+5463485,"2,4-Decadienoic acid methyl ester",{''}
+5463875,"2-Octen-1-ol, acetate",{''}
+5463904,Ethyl trans-2-decenoate,"{'apple', 'green', 'pear', 'waxy', 'fruity'}"
+5463935,Ethyl 4-(methylthio)butyrate,{'sulfury'}
+5463936,1-Ethoxy-3-methyl-2-butene,"{'grassy', 'fruity', 'green'}"
+54670067,l-ascorbic acid,{''}
+5484202,Stigmast-4-en-3-one,{''}
+551084,4883-60-7,"{'powdery', 'tobacco', 'woody', 'dry', 'nutty', 'phenolic', 'spicy', 'clean'}"
+5541,triacetin,"{'tropical', 'bitter', 'mild', 'fruity', 'clean'}"
+556998,"p-Menthane-3,8-diol","{'eucalyptus', 'herbal', 'minty'}"
+557934,32064-73-6,{''}
+560255,Ethyl 3-methylpentanoate,"{'pineapple', 'fruity'}"
+5610,tyramine,"{'dirty', 'cooked', 'mild', 'phenolic', 'meaty', 'rubbery'}"
+5634,10-Undecenoic Acid,"{'sweet', 'woody'}"
+565690,Menthyl isovalerate,{''}
+569214,1-Phenylethyl isobutyrate,"{'mango', 'jasmin', 'tropical', 'green', 'fruity'}"
+57346909,"4H-Pyrrolo[2,1-d]-1,3,5-dithiazine,tetrahydro-2,4-dimethyl-, [2S-(2a,4a,8ab)]- (9CI)",{''}
+57357963,33368-82-0,"{'sulfurous', 'alliaceous'}"
+57370186,156420-69-8,{''}
+574068,"2-isobutyl-4,5-dimethyloxazole","{'roasted', 'burnt'}"
+5742590,Daucosterol,{''}
+57501028,2-[(Methylthio)methyl]-2-butenal,"{'burnt', 'cooked', 'matches', 'cabbage', 'roasted', 'onion'}"
+577126,Dehydrodihydroionone,{'floral'}
+5780,D-Sorbitol,"{'sweet', 'caramel', 'odorless'}"
+578423,alpha-Terpinyl butyrate,"{'sour', 'balsam', 'rosemary', 'fruity'}"
+578817,"3,5-Dimethyl-2-isobutylpyrazine","{'hazelnut', 'musty', 'cocoa', 'earthy'}"
+5791138,4-[(Z)-prop-1-enyl]phenol,{''}
+579336,Dihydro-beta-ionol,"{'floral', 'woody', 'amber'}"
+58,2-oxobutanoic acid,"{'creamy', 'lactonic', 'sweet', 'caramel', 'brown'}"
+586292,Dill ether,{'dill'}
+5862,L-cysteine,{'sulfury'}
+589365,Nonyl octanoate,"{'rose', 'floral', 'cognac', 'mushroom', 'sweet'}"
+5916154,4-Methyl-2-Pentenal,{''}
+595928,"4-Methyl-2-phenyl-1,3-dioxolane","{'naphthalic', 'woody', 'narcissus', 'bitter', 'sweet'}"
+5960,L-aspartic acid,{'odorless'}
+5962,L-lysine,{'odorless'}
+5971,Allyl Isothiocyanate,"{'strong', 'mustard', 'garlic', 'bitter', 'sulfur', 'pungent'}"
+5986428,"2,4-Pentadienal",{''}
+6028462,Angelaldehyde,"{'fruit', 'green', 'strong'}"
+602,Dl-Alanine,{'odorless'}
+6050,Tributyrin,"{'bitter', 'cheese', 'creamy', 'waxy', 'fatty'}"
+6054,2-Phenylethanol,"{'honey', 'lilac', 'bitter', 'rose flower', 'floral', 'rose water', 'rose', 'spice', 'rose dried'}"
+6072,Phlorizin,{'bitter'}
+6086514,Geranyl isobutyrate,"{'green', 'apricot', 'fruity', 'peach', 'rose', 'floral', 'sweet'}"
+60968,Bornyl Isovalerate,{''}
+60979,Ethyl 4-methoxybenzoate,"{'anise', 'aniseed', 'tarragon', 'balsam', 'fruity'}"
+60983,"2,3-Heptanedione","{'butter', 'oily', 'cheese'}"
+60985,Citronellyl isobutyrate,"{'rose', 'fruit', 'floral', 'tropical', 'sweet', 'geranium', 'fruity'}"
+60995,"(2,2-Dimethoxyethyl)benzene","{'rosy', 'floral', 'foliage', 'bitter', 'hyacinth', 'green', 'mushroom', 'earthy'}"
+60998,Isobutyl phenylacetate,"{'floral', 'amber', 'chocolate', 'sweet', 'honey'}"
+61007,4-(4-Methoxyphenyl)-2-butanone,"{'rose', 'cherry', 'cassie', 'absolute', 'dried raspberry', 'raspberry', 'sweet', 'fruity'}"
+61015,Butyl laurate,"{'oil', 'soapy', 'oily', 'peanut', 'waxy', 'fruity'}"
+61016,"2,6-Dimethyl-5-heptenal","{'fruit', 'floral', 'herbaceous', 'ozone', 'peach', 'meaty', 'lemon', 'spicy', 'earthy', 'clean', 'grapefruit', 'fatty', 'cucumber', 'citrus', 'vegetable', 'nutty', 'green', 'watermelon', 'sweet', 'wine_like', 'woody', 'cantaloupe', 'melon', 'fresh air', 'fruity'}"
+61020,3-Methyl-2-butenal,"{'brown', 'cherry', 'fruity', 'almond', 'nutty', 'sweet', 'pungent'}"
+61024,Octyl isobutyrate,"{'creamy', 'soapy', 'oily', 'green', 'waxy', 'fruity', 'clean'}"
+61030,Octyl butyrate,"{'creamy', 'jasmin', 'natural', 'oily', 'green', 'fresh', 'waxy', 'earthy', 'fruity'}"
+61031,2-Methylundecanal,"{'coumarinic', 'metallic', 'moss', 'citrus', 'tuberose', 'aldehydic', 'amber', 'fresh', 'waxy'}"
+61040,Linalyl formate,"{'rose', 'citrus', 'coriander', 'bitter', 'green', 'herbal', 'fruity', 'bergamot'}"
+61041,Safranal,"{'fresh', 'metallic', 'tobacco', 'rosemary', 'herb', 'phenolic', 'sweet', 'spicy', 'herbal'}"
+61045,"2,6-Dimethylthiophenol","{'sulfurous', 'roasted', 'metallic', 'sulfury', 'phenolic', 'meaty'}"
+61048,Isobutyl benzoate,"{'powdery', 'sweet', 'musty', 'balsam', 'fruity'}"
+61052,3-Phenylpropyl propionate,"{'floral', 'hyacinth', 'balsam', 'mimosa'}"
+61054,4-Methoxybenzyl formate,"{'vanilla', 'fruity', 'anisic', 'floral', 'seaweed'}"
+61092,Rhodinyl formate,"{'leaf', 'floral', 'rose dried', 'bitter', 'green', 'geranium'}"
+61093,Rhodinyl butyrate,"{'berry', 'red rose', 'tropical', 'geranium', 'fruity'}"
+61096,Octyl propionate,"{'green', 'mushroom', 'fruity', 'floral', 'sweet', 'raspberry', 'jammy'}"
+61098,Linalyl propionate,"{'rose', 'lily', 'woody', 'rum', 'fresh', 'bergamot'}"
+61124,"2,6,6-Trimethyl-1-cyclohexene-1-acetaldehyde","{'woody', 'camphor', 'fruity', 'beef', 'cooling', 'weedy'}"
+61125,beta-Caryophyllene alcohol,"{'earth', 'moss', 'woody', 'warm', 'spicy', 'earthy'}"
+61126,Verbenol,"{'ozone', 'fresh', 'pine'}"
+61130,Myrtenal,"{'spice', 'tonka', 'camphor', 'spicy', 'pepper', 'jam', 'terpene', 'sweet', 'lime', 'cinnamon'}"
+61134,Benzyl butyl ether,"{'floral', 'rose'}"
+61135,2-methylpropyl but-2-enoate,{''}
+61137,Butyl pentanoate,"{'sweet', 'apple', 'raspberry', 'tropical', 'green', 'pineapple', 'fruity'}"
+61151,Methyl 2-methoxybenzoate,"{'floral', 'cananga', 'hyacinth', 'blackcurrant', 'herbal', 'fruity'}"
+61153,2-Methoxystyrene,"{'nutty', 'herbal', 'ether', 'green'}"
+61155,2-Methoxyphenyl acetate,"{'powdery', 'woody', 'dry', 'clove', 'spice', 'sweet', 'walnut', 'smoky'}"
+61166,Furfuryl propionate,"{'oily', 'coffee', 'green', 'sweet', 'banana', 'spicy', 'fruity'}"
+61171,S-Ethyl ethanethioate,"{'garlic', 'onion', 'coffee', 'sulfury', 'meaty', 'fruity'}"
+61177,Hexyl formate,"{'apple', 'banana', 'unripe plum', 'sweet'}"
+61184,Isopropyl butyrate,"{'fruit', 'estery', 'pungent', 'pineapple', 'ripe', 'sweet', 'ether', 'fruity'}"
+61185,Amyl octanoate,"{'sweet', 'wine', 'orris'}"
+61199,698-10-2,"{'maple', 'spice', 'sweet', 'caramel', 'fruity'}"
+61200,2-Hydroxy-4-methylbenzaldehyde,"{'bitter', 'almond', 'phenolic'}"
+61202,1-Phenyl-2-pentanol,"{'sweet', 'mild', 'earthy', 'green'}"
+61204,delta-Undecalactone,"{'creamy', 'peach', 'waxy', 'coconut', 'fruity', 'fatty'}"
+61206,Farnesylacetone,"{'floral', 'wine', 'fruity', 'creamy'}"
+61209,"3-Methylcyclopentane-1,2-dione",{''}
+61229,4-Formyl-2-methoxyphenyl acetate,"{'vanilla', 'creamy', 'powdery', 'heliotropin', 'sweet'}"
+61235,3-Nonanone,"{'fresh', 'leaf', 'jasmin', 'sweet', 'spicy', 'herbal', 'fruity'}"
+61240,2-Acetyl-1-methylpyrrole,{'earthy'}
+61252,Tetrahydrothiophen-3-one,"{'buttery', 'clam', 'vegetable', 'garlic', 'green', 'meaty', 'butter'}"
+61260,2-Propionylpyrrole,"{'popcorn', 'roast'}"
+61261,2-(Methylthio)phenol,"{'egg', 'sulfurous', 'garlic', 'onion', 'meaty'}"
+61262,Myrtenyl acetate,{''}
+61270,.alpha.-Campholenyl acetate,"{'jammy', 'woody', 'raspberry', 'ionone', 'sweet'}"
+61275,Nerol oxide,"{'herbal', 'weedy', 'diphenyl oxide', 'celery', 'narcissus', 'cortex', 'green', 'flower', 'oil'}"
+61290,Methyl citronellate,"{'sweet', 'apple', 'floral', 'geranium', 'brandy', 'waxy', 'fruity'}"
+61293,Ethyl 3-hydroxyhexanoate,"{'citrus', 'grape', 'pineapple', 'fresh', 'fruity', 'smoky'}"
+61295,S-Propyl thioacetate,"{'onion', 'sulfurous', 'garlic', 'green'}"
+612,lactic acid,{'odorless'}
+61303,2-Pentadecanone,"{'fresh', 'jasmin', 'celery'}"
+61304,Heptyl 2-methylpropanoate,"{'cherry', 'apple', 'floral', 'apricot', 'raspberry', 'orange', 'warm', 'grape', 'sweet', 'pear', 'green', 'fruity'}"
+61325,4077-47-8,"{'caramel', 'potato', 'mildew', 'maple', 'mushroom', 'grape', 'sweet', 'moldy', 'mossy', 'fruity'}"
+61334,4166-20-5,"{'baked', 'molasses', 'tropical', 'brown', 'bread', 'toffee', 'sugar', 'sweet', 'caramel', 'fruity'}"
+61337,Allyl 2-furoate,"{'jam', 'caramel', 'fruity'}"
+61346,1-Octen-3-One,"{'dirty', 'metal', 'mushroom', 'musty', 'herbal', 'earthy'}"
+61361,Butylphthalide,"{'herbal', 'celery'}"
+61362,d-Piperitone,"{'peppermint', 'minty'}"
+61384,2-Phenylethyl hexanoate,"{'floral', 'sweaty', 'woody', 'pineapple', 'green', 'sweet', 'banana', 'waxy', 'honey'}"
+61386,Isoamyl laurate,"{'wine', 'beer', 'oily', 'rum', 'peach', 'brandy', 'waxy', 'fatty'}"
+61400,"3,4-Dimethoxystyrene","{'weedy', 'floral', 'cortex', 'green', 'fruity'}"
+6140,L-phenylalanine,"{'bitter', 'odorless'}"
+61416,Citronellyl Valerate,"{'warm', 'honey', 'herb', 'herbal', 'rose'}"
+61435,Linalyl octanoate,"{'natural', 'dry', 'green', 'sweet', 'herbal', 'fruity'}"
+61450,Ethyl 3-(2-furyl)propionate,"{'pineapple', 'sweet', 'balsam', 'fruity'}"
+61455,Hexyl isovalerate,"{'strawberry', 'green', 'apple skin', 'fruity', 'unripe fruit', 'sweet'}"
+61503,D-Lactic acid,"{'acidic', 'odorless'}"
+61527,"3-Acetyl-2,5-dimethylfuran","{'cocoa', 'leather', 'nutty', 'corn', 'sweet', 'musty', 'earthy'}"
+61585,Celestolide,"{'woody', 'animal', 'cedar', 'ambergris', 'musk'}"
+61586,4-(Ethoxymethyl)-2-methoxyphenol,"{'vanilla', 'creamy', 'nutmeg', 'alcoholic', 'rum', 'chocolate', 'sweet', 'spicy', 'smoky'}"
+61592,Ethyl 3-(methylthio)propionate,"{'metallic', 'fruity', 'sulfury', 'tomato', 'ripe', 'pineapple', 'pulpy'}"
+61633,"3,4-Dimethyl-1,2-cyclopentanedione","{'anise', 'caramel', 'licorice', 'maple', 'sugar', 'fenugreek', 'sweet', 'balsam'}"
+61634,13494-07-0,"{'sweet', 'maple', 'caramel'}"
+61641,Methyl 3-(methylthio)propionate,"{'sulfurous', 'vegetable', 'garlic', 'onion', 'tomato', 'sweet'}"
+61653,"2,4,5-Trimethylthiazole","{'coffee', 'cocoa', 'vegetable', 'chocolate', 'hazelnut', 'musty', 'earth', 'nutty'}"
+61656,1-(Methylthio)-2-butanone,"{'oily', 'fishy', 'garlic', 'mushroom'}"
+61657,2-Methyl-5-(methylthio)furan,"{'horseradish', 'garlic', 'onion', 'coffee', 'sulfury', 'mustard'}"
+61658,Furfuryl isovalerate,"{'berry', 'plum', 'ripe', 'grape', 'fruity'}"
+61659,Difurfuryl sulfide,"{'powerful', 'coffee', 'sulfury', 'mushroom', 'meaty', 'earthy'}"
+61660,S-Furfuryl thioacetate,"{'roasted', 'burnt', 'nutty', 'coffee', 'sulfury', 'roast'}"
+61661,2-(Methoxymethyl)furan,"{'roasted', 'coffee'}"
+61662,S-Methyl 2-furancarbothioate,"{'creamy', 'milky', 'fried', 'onion', 'cooked'}"
+61663,13679-70-4,"{'acetophenone', 'sulfur', 'cherry', 'almond', 'woody', 'sweet', 'furfural'}"
+61664,13679-85-1,"{'berry', 'must', 'sulfur', 'onion', 'others', 'cabbage', 'fruity'}"
+61665,13679-86-2,"{'rosemary', 'minty', 'phenolic', 'green', 'spice', 'herbal'}"
+61670,5-Methylquinoxaline,"{'toasted', 'roasted', 'burnt', 'corn', 'nutty', 'coffee'}"
+61700,2-Isopropyl-5-methylpyrazine,"{'coffee', 'green', 'sweat', 'earthy', 'nutty'}"
+61712,4-Ethylsyringol,{''}
+61715,3-Isobutylpyridine,"{'strong', 'aromatic'}"
+61743,9-Decenoic acid,"{'green', 'waxy', 'fatty', 'fruity', 'soapy'}"
+61780,Perillyl acetate,"{'spicy', 'herbal'}"
+61781,Limonen-10-yl acetate,"{'sweet', 'mild', 'fruity', 'minty'}"
+61808,2-Isopropyl-4-methylthiazole,"{'fruit', 'rooty', 'vegetable', 'tropical', 'nut', 'green', 'earthy'}"
+61812,Butyl 2-methylbutyrate,"{'fruit', 'cocoa', 'chocolate', 'green', 'fruity'}"
+61814,"2,4-Dimethylbenzaldehyde","{'vanilla', 'naphthyl', 'cherry', 'almond', 'spice'}"
+61840,4-Ethyloctanoic acid,{''}
+61845,3-(Methylthio)butyraldehyde,"{'green', 'buchu', 'chip', 'musk', 'potato'}"
+6184,Hexanal,"{'aldehydic', 'fresh', 'fat', 'green', 'leafy', 'fatty', 'fruity', 'grass', 'tallow', 'sweaty'}"
+61874,Octadienal,{''}
+61875,Dec-4-enal,"{'fatty', 'citrus', 'aldehydic', 'orange'}"
+61918,2-Acetyl-3-ethylpyrazine,"{'potato', 'chip', 'oily', 'nutty', 'corn', 'popcorn', 'tomato', 'earthy'}"
+61922,4-Methylthio-2-butanone,"{'tomato', 'vegetable', 'earthy', 'sulfurous', 'fruit', 'potato', 'sweet'}"
+61926,Allyl Methyl Trisulfide,"{'creamy', 'onion', 'alliaceous', 'garlic'}"
+61942,Piperitenone oxide,"{'herbal', 'minty'}"
+61953,Theaspirane,"{'leaf', 'metallic', 'tobacco', 'woody', 'green', 'wet', 'spicy', 'tea', 'herbal'}"
+61955,furan-2-ylmethyl pentanoate,"{'sweet', 'apple', 'tropical', 'cheesy', 'pineapple', 'fruity'}"
+61982,p-Mentha-8-thiol-3-one,"{'berry', 'minty', 'tropical', 'peach', 'sulfury', 'buchu', 'green', 'fruity'}"
+61988,2-Acetyl-1-ethylpyrrole,{'nutty'}
+62003,4-Methylnonanoic acid,{''}
+62013,3-(Methylthio)hexyl acetate,"{'vegetable', 'tropical', 'sulfury', 'green', 'spicy'}"
+6202,Thiamine Hydrochloride,"{'bitter', 'mild', 'sour'}"
+62069,"2-Ethyl-4,5-dimethyloxazole","{'creamy', 'earthy', 'vegetable', 'green'}"
+62089,4-Methyloctanoic acid,"{'creamy', 'milk', 'plastic', 'dairy', 'musty', 'waxy', 'mossy', 'fatty'}"
+62092,p-Tolyl isovalerate,"{'sweet', 'tobacco', 'herbal', 'animal'}"
+6210220,2-Methyl-3-(2-furyl)propenal,"{'spice', 'herbal', 'woody', 'cinnamon'}"
+62105,"2,5-Dimethyl-1,4-dithiane-2,5-diol","{'bouillon', 'pork', 'onion', 'chicken', 'lamb', 'savory'}"
+62117,56424-87-4,{''}
+62128,2-Methyl-3-tetrahydrofuranthiol,"{'sulfurous', 'roasted', 'meat', 'chicken', 'beef'}"
+62131,Furfuryl methyl disulfide,"{'roasted', 'alliaceous', 'coffee', 'sulfury', 'smoke', 'fishy', 'meaty'}"
+6213,Dimethyl sulfone,"{'sulfurous', 'sulfur', 'burnt'}"
+62321,Linalyl butyrate,"{'berry', 'pear', 'sweet', 'banana', 'fruity', 'bergamot'}"
+62328,Terpinyl propionate,"{'old wood', 'citrus', 'tropical', 'bitter', 'green', 'geranium', 'herbal'}"
+62341,1-Phenylethyl acetate,"{'gardenia', 'floral', 'leafy', 'bitter', 'green', 'sweet', 'musty', 'rhubarb', 'herbal', 'fruity'}"
+62350,p-Menthan-2-ol,{''}
+62351,3-(Methylthio)propyl isothiocyanate,"{'horseradish', 'earthy', 'vegetable', 'sulfurous'}"
+62367,Sabinene hydrate,"{'eucalyptus', 'green', 'minty', 'terpene'}"
+62374,1125-21-9,"{'leaf', 'tobacco', 'woody', 'musty', 'tea', 'sweet'}"
+62375,Benzaldehyde dimethyl acetal,"{'sharp', 'green', 'fruity', 'almond', 'hummus', 'wine', 'floral'}"
+62378,Dihydrojasmone,"{'spice', 'fresh', 'woody', 'outdoor', 'jasmin', 'herbal', 'myrrh'}"
+62384,"2,2,4-Trimethyl-1,3-dioxolane","{'potato', 'vegetable', 'raw', 'green', 'earthy'}"
+62385,1195-32-0,"{'pine', 'guaiacol', 'phenolic', 'styrene', 'gasoline', 'citrus', 'spicy', 'clove'}"
+62424,2-Pentanethiol,"{'sulfury', 'gassy'}"
+62433,Pentyl valerate,"{'apple', 'ripe', 'fruity'}"
+62434,Allyl Methyl Disulfide,"{'onion', 'alliaceous', 'garlic', 'green'}"
+62444,S-Methyl thiobutyrate,"{'cabbage', 'garlic', 'animal', 'putrid', 'sulfury', 'cheese'}"
+62445,2-Methylbutyl isovalerate,"{'apple', 'soapy', 'green', 'cheese', 'herbal', 'earthy', 'fruity'}"
+62453,4-Vinylphenol,"{'medical', 'chemical', 'almond shell', 'phenolic', 'sweet'}"
+62465,4-Ethyl-2-methoxyphenol,"{'bacon', 'clove', 'phenolic', 'spice', 'spicy', 'smoky'}"
+62484,3-Hydroxy-2-Pentanone,"{'herb', 'herbal', 'truffle'}"
+62510,"4,5-Dimethylthiazole","{'roasted', 'boiled shrimp', 'nutty', 'green', 'roast', 'fishy', 'smoke'}"
+6251,D-mannitol,"{'odorless', 'sweet'}"
+62539,"3,4-Hexanedione","{'caramel', 'toasted', 'nutty', 'almond', 'buttery'}"
+62572,Ethyl 3-hydroxybutyrate,"{'tropical', 'apple skin', 'green', 'grape', 'marshmallow', 'fruity'}"
+62592,Heptyl butyrate,"{'sweet', 'floral', 'chamomile', 'tropical', 'green', 'tea', 'fruity', 'clean'}"
+62653,tridec-2-enal,{''}
+62725,2-Isobutylthiazole,"{'tomato', 'metallic', 'privet', 'leaf', 'vegetable', 'green', 'earthy', 'tomato leaf', 'wasabi'}"
+6274,L-histidine,"{'bitter', 'odorless'}"
+6276,1-Pentanol,"{'vanilla', 'balsam', 'oil', 'fusel', 'balsamic', 'sweet'}"
+62835,28664-35-9,"{'extremely sweet', 'strong', 'fennel', 'tobacco', 'burnt', 'maple', 'seedy', 'coffee', 'sugar', 'celery', 'spice', 'caramel', 'cotton candy', 'smoky'}"
+62897,Isopropenylpyrazine,"{'nutty', 'roasted', 'caramellic', 'chocolate'}"
+62900,Whiskey lactone,"{'toasted', 'coumarin', 'burnt', 'nutty', 'celery', 'coconut', 'tonka'}"
+62901,Octyl 2-furoate,"{'creamy', 'tallow', 'oily', 'mushroom', 'waxy', 'earthy'}"
+62908,Methyl 2-hydroxy-4-methylpentanoate,"{'sweet', 'musty', 'fruity'}"
+62913,"2,5-Diethyltetrahydrofuran","{'sweet', 'herbal', 'caramel'}"
+6321405,Isoborneol,"{'must', 'camphor', 'woody', 'herbal', 'balsam'}"
+6322,L-arginine,{'faint'}
+6329006,Allyldimethylsilane,{''}
+6341,Ethanamine,"{'fishy', 'ammonia'}"
+6343,Ethanethiol,"{'fruity', 'sulfurous'}"
+6344,Dichloromethane,{''}
+6354,Oxirane,{''}
+6363,Isopropylamine,"{'fishy', 'ammoniacal'}"
+6364,2-Propanethiol,"{'strong', 'meaty', 'gassy', 'sulfurous', 'ripe', 'onion'}"
+636687,"2,6-Nonadienal","{'cucumber', 'citrus', 'green', 'fresh', 'melon'}"
+636822,alpha-Asarone,{''}
+6370843,"(1Z,4Z)-germacrene B","{'earth', 'wood', 'woody', 'spice', 'spicy', 'earthy'}"
+637195,Phytyl acetate,{''}
+637511,cinnamaldehyde,"{'cinnamon', 'warm', 'spice', 'clove', 'candy', 'paint', 'red hots', 'sweet'}"
+637517,Elaidic acid,{''}
+637520,Methyl cinnamate,"{'sweet', 'cherry', 'balsam', 'strawberry'}"
+637542,p-coumaric acid,"{'balsam', 'balsamic'}"
+637563,trans-Anethole,"{'anise', 'mimosa', 'licorice', 'sweet', 'balsam'}"
+637564,"2,4-Hexadienal","{'floral', 'citrus', 'green', 'sweet', 'spicy'}"
+637566,Geraniol,"{'citrus', 'fruity', 'sweet', 'floral', 'geranium', 'waxy', 'rose'}"
+637758,Ethyl Cinnamate,{''}
+637759,Benzalacetone,"{'vanilla', 'jam', 'creamy', 'anise', 'cherry', 'floral', 'almond', 'spice', 'sweet', 'rhubarb', 'butter', 'balsam', 'cinnamon'}"
+637775,Sinapic Acid,{'odorless'}
+637776,Methylisoeugenol,{'bitter'}
+637796,Isosafrole,{''}
+637920,Methyl propenyl ketone,"{'fishy', 'acetone', 'phenolic', 'fruity'}"
+638011,Citral,"{'citrus', 'lemon', 'bitter', 'sweet', 'mint', 'sharp'}"
+638014,Beta-Ionone,"{'jam', 'powdery', 'floral', 'woody', 'orris', 'raspberry', 'dry', 'orange', 'flower', 'violet', 'seaweed'}"
+638024,piperine,"{'animal', 'pepper'}"
+638034,Retinyl Acetate,{''}
+638122,2-Pentenoic Acid,{''}
+638127,4-Hexenoic acid,{''}
+638278,isoliquiritigenin,{'bitter'}
+638500,Farnesyl acetate,"{'rose', 'floral', 'oily', 'wax', 'green', 'oil'}"
+639665,Xanthohumol,{'bitter'}
+6405,2-Methyl-2-Butanol,{'pungent'}
+641248,4-Hexen-1-Ol,"{'metallic', 'pungent', 'vegetable', 'tomato', 'green', 'musty', 'herbal'}"
+641256,"2,4-Hexadien-1-Ol","{'almond', 'nutty', 'green', 'sweet', 'musty', 'herbal'}"
+641294,4-Methoxycinnamaldehyde,"{'vanilla', 'cherry', 'floral', 'sweet', 'spicy', 'cinnamon'}"
+641298,2-Methoxycinnamaldehyde,"{'woody', 'cassia', 'oily', 'sweet', 'paper', 'cinnamon'}"
+6420258,Ethyl 5-hexenoate,"{'pineapple', 'fruity'}"
+642039,4-Methyl-2-pentenoic acid,{''}
+6421281,"2,4,7-Tridecatrienal, (E,Z,Z)-",{''}
+642376,Butylidenephthalide,"{'herbal', 'lovage', 'celery'}"
+6427087,"2E,4Z-Decadienal","{'fat', 'green', 'waxy', 'fatty', 'geranium', 'fried'}"
+6427105,(-)-Isopinocamphone,{'spicy'}
+6427135,p-Menthene-8-thiol,"{'naphthyl', 'woody', 'aromatic', 'sulfury', 'resinous', 'grapefruit'}"
+6427787,UNII-P6B6JD2N2Z,"{'citrus', 'green'}"
+6427788,UNII-89JV2MJ158,{'woody'}
+642793,UNII-847O2V0IOA,{''}
+6428089,Methyl dl-jasmonate,{'jasmine'}
+6428458,Methyl cis-cinnamate,"{'balsam', 'strawberry', 'cherry', 'sweet', 'cinnamon'}"
+6428535,"(1R,6S)-gamma-himachalene",{''}
+6428555,"(2Z,4E)-nona-2,4-dienal","{'leaf', 'fat', 'wax', 'nutty', 'green', 'fishy', 'violet', 'fatty'}"
+6428573,CHEBI:88903,"{'floral', 'woody', 'flower', 'sweet', 'earthy'}"
+642875,(-)-Mintlactone,{''}
+6428802,"6,7-Dihydro-2,3-Dimethyl-5H-Cyclopentapyrazine",{''}
+6428929,3-hydroxy-4-phenylbutan-2-one,"{'creamy', 'sweet', 'fruity'}"
+6428936,Methialdol,{''}
+6428986,trans-.alpha.-bergaptene,"{'tea', 'woody', 'warm', 'wood'}"
+6428990,2-propionyl-2-thiazoline,"{'meaty', 'nutty', 'roasted', 'cooked'}"
+6428995,cis-Cinnamaldehyde,"{'spicy', 'cinnamon'}"
+6429333,2-Phenyl-2-Butenal,"{'cocoa', 'beany', 'narcissus', 'nutty', 'cortex', 'radish', 'sweet', 'honey'}"
+6430180,(Z)-4-Dodecenal,{''}
+6430188,(Z)-8-Tetradecenal,{''}
+6430738,"cis-limonene 1,2 oxide","{'citrus', 'fresh'}"
+6430754,10-epi-gamma-Eudesmol,"{'woody', 'wood', 'flower', 'floral', 'sweet'}"
+6430759,2-trans-6-cis-Dodecadienal,{''}
+6430833,cis-Phytol,{''}
+6430888,227456-27-1,"{'onion', 'sulfurous'}"
+6430892,"1-Butanol, 3-mercapto-2-methyl-",{''}
+6431015,Cedr-8-ene,"{'cedar', 'fresh', 'woody', 'sweet'}"
+643139,3-Hexenal,"{'apple', 'natural', 'leafy', 'tomato', 'green', 'stem', 'melon', 'fruity'}"
+6432005,gamma-Eudesmol,"{'wax', 'sweet', 'waxy'}"
+6432254,Linalool A oxide,"{'floral', 'flower'}"
+6432404,(+)-gamma-cadinene,{'wood'}
+6432469,Isomenthone,{'minty'}
+6433214,Bovolide,"{'spicy', 'herbal', 'minty'}"
+6433750,"(5E)-3,5-dimethylocta-1,5,7-trien-3-ol","{'ocimene', 'ginger', 'fennel', 'myrcene', 'tropical', 'hyacinth', 'sweet'}"
+6434541,"(Z,z)-3,6-nonadien-1-ol","{'cucumber', 'honeydew', 'oily', 'green', 'sweet', 'waxy', 'melon'}"
+6435861,Hexyl (E)-2-hexenoate,"{'fruity', 'green', 'fatty'}"
+6435866,2-Methyl-3-pentenoic acid,"{'cranberry', 'hazelnut'}"
+6435914,4-methyl-2-phenylpent-2-enal,{''}
+6436017,1-Popc,{'bland'}
+6436486,trans-2-Hexenal dimethyl acetal,"{'apple', 'fruity'}"
+6436624,Ethyl palmitoleate,{''}
+6436627,Ocimen quintoxide,"{'citrus', 'woody', 'minty', 'green', 'celery', 'sweet', 'spicy', 'herbal'}"
+643731,Violet leaf aldehyde,"{'leaf', 'cucumber', 'wax', 'dry', 'green', 'violet', 'fatty'}"
+643757,cis-Aconitic acid,{'bland'}
+643779,Neral,"{'citral', 'lemon peel', 'sweet', 'lemon'}"
+6438070,34686-71-0,"{'creamy', 'jasmin', 'peach', 'waxy', 'coconut'}"
+643820,nerol,"{'citrus', 'natural', 'bitter', 'neroli', 'magnolia', 'sweet'}"
+643915,Angelic acid,{'spicy'}
+643941,cis-3-Hexenal,"{'apple', 'fatty', 'leaf', 'green', 'grassy', 'weedy', 'fruity'}"
+643950,cis-Crotonaldehyde,{'flower'}
+6439585,Acetylvalerenolic acid,{'odorless'}
+6440397,caftaric acid,{'odorless'}
+644104,CID 644104,"{'grassy', 'very mild'}"
+6448,Bornyl Acetate,"{'balsamic', 'herbal', 'woody', 'pine needle', 'spice', 'fresh', 'cedar', 'pine', 'camphor', 'sweet'}"
+6450812,beta-Gurjunene,{''}
+6450832,Vitispirane,"{'floral', 'woody', 'earthy', 'fruity'}"
+64685,Borneol,"{'pine', 'woody', 'camphor'}"
+6473881,parthenolide,{'bitter'}
+6493,3-Methyl-3-Pentanol,"{'fruity', 'powerful', 'green', 'leafy'}"
+650,"2,3-butanedione","{'butter', 'caramel', 'creamy', 'pungent', 'sweet', 'strong', 'oily'}"
+65064,(-)-Epigallocatechin gallate,{'bitter'}
+6506,Triethyl Citrate,"{'fruity', 'odorless', 'bitter', 'wine', 'mild'}"
+6508206,6753-98-6,"{'woody', 'wood'}"
+65084,Gallocatechin,{'bitter'}
+65243,Ginkgolide B,{'bitter'}
+65285,S-Methyl 2-methylbutanethioate,{''}
+65289,"4-Acetyl-1,4-dimethyl-1-cyclohexene",{'fruity'}
+65290,"3-Methyl-1,2,4-trithiane",{''}
+6532,Linalyl isobutyrate,"{'woody', 'lavender', 'light', 'fruity', 'bergamot'}"
+65413,3-(Methylthio)-1-hexanol,"{'sulfurous', 'metallic', 'leafy', 'pepper', 'vegetable', 'green', 'melon'}"
+65425,Methyl 4-(methylthio)butyrate,"{'cabbage', 'pineapple', 'sulfury', 'cheese', 'fruity'}"
+65427,5-Ethyl-2-hydroxy-3-methylcyclopent-2-en-1-one,{''}
+65428,6-Hydroxydihydrotheaspirane,{''}
+6544,Isophorone,"{'cooling', 'camphor', 'tobacco', 'cedarwood', 'woody', 'leather', 'camphoraceous', 'green', 'sweet', 'musty', 'fruity'}"
+6548,Tetrahydrolinalool,"{'lily', 'floral', 'bois de rose', 'lilac', 'woody', 'oily', 'tea'}"
+6549,Linalool,"{'floral', 'citrus', 'bois de rose', 'woody', 'lemon', 'orange', 'lavender', 'blueberry', 'flower', 'sweet', 'green'}"
+6552009,Borneol,"{'earthy', 'pine', 'camphor'}"
+65575,Cedrol,"{'cedarwood', 'woody', 'soft', 'dry', 'sweet'}"
+6558,Isobutylamine,"{'fishy', 'cheesy'}"
+6560,2-Methyl-1-propanol,"{'bitter', 'solvent', 'wine', 'ether'}"
+6561,Isobutyraldehyde,"{'aldehydic', 'floral', 'green', 'fresh', 'malt', 'pungent'}"
+656566,AC1LCV7P,{'bitter'}
+6568,2-Butanol,"{'oily', 'apricot', 'wine', 'sweet'}"
+6569,2-Butanone,"{'acetone', 'camphor', 'ethereal', 'fruity', 'ether'}"
+65724,Verbenone,"{'celery', 'menthol', 'camphor'}"
+6584,Methyl Acetate,"{'bitter', 'fruity', 'sweet', 'ether'}"
+6590,Isobutyric Acid,"{'cheese', 'butter', 'rancid', 'strawberry'}"
+66093,Valerophenone,"{'valerian', 'balsam'}"
+660,dihydrocoumarin,"{'creamy', 'cinnamon', 'coumarin', 'tobacco', 'almond', 'sweet', 'herbal', 'coconut', 'tonka'}"
+6616,Camphene,"{'fir needle', 'herbal', 'woody', 'camphor'}"
+66282,Allyl methyl sulfide,"{'onion', 'alliaceous', 'garlic'}"
+6654,Alpha-Pinene,"{'pine', 'turpentine', 'fresh', 'woody', 'earthy', 'camphor', 'minty', 'terpene', 'sweet', 'harsh'}"
+6660,80-71-7,"{'maple syrup', 'smoky', 'caramel', 'maple'}"
+66654,Xanthoxylin,"{'borneol', 'camphor'}"
+667450,AC1LDI49,{'bitter'}
+66751,Octyl benzoate,"{'balsam', 'fruity'}"
+66828,(1-Bromovinyl)benzene,{''}
+67179,(+)-Linalool,"{'floral', 'lavender', 'sweet', 'petitgrain'}"
+6736,3-Methylindole,"{'indole', 'civet', 'animal', 'mothball', 'very strong', 'fecal'}"
+674,dimethylamine,{''}
+67521,"1,2,3,5,6-Pentathiepane",{'mushroom'}
+6781,Diethyl Phthalate,{'bitter'}
+6782,Diisobutyl Phthalate,{''}
+679,dimethyl sulfoxide,"{'garlic', 'bitter', 'oily', 'cheesy', 'mushroom', 'fatty'}"
+68077,Tangeretin,{'bitter'}
+68148,Chavicol,"{'medicine', 'phenol', 'phenolic', 'medicinal'}"
+6826,Methyl 2-(methylamino)benzoate,"{'wine', 'powdery', 'orange', 'neroli', 'blossom', 'phenolic', 'grape', 'sweet', 'musty', 'fruity'}"
+68316,Perillen,"{'woody', 'wood'}"
+68346,Artemisia ketone,"{'berry', 'green', 'honey', 'herb', 'mint', 'herbal'}"
+6857681,beta-SANTALOL,{'woody'}
+6874,Isoamyl salicylate,"{'metallic', 'floral', 'tobacco', 'soapy', 'woody', 'wintergreen', 'bitter', 'herbal', 'orchid'}"
+6877,Ethyl 2-aminobenzoate,"{'floral', 'wintergreen', 'orange blossom', 'blossom', 'grape', 'sweet'}"
+68960,Isobutyl isothiocyanate,{'green'}
+68972,1-Triacontanol,{''}
+6911854,Sinigrin,{'bitter'}
+6915,2-Ethylbutyric Acid,"{'berry', 'caramel', 'acidic', 'dry', 'whiskey', 'sour', 'fruity'}"
+6918391,Beta-Elemene,"{'fresh', 'waxy', 'herb', 'herbal', 'wax'}"
+6919,2-Furoic Acid,{'odorless'}
+6920,2-Acetylthiophene,"{'sulfur', 'sulfury'}"
+69320,2-Propylpyridine,"{'roasted', 'tobacco', 'nutty', 'green', 'fatty'}"
+69415,Pentyl isothiocyanate,{'green'}
+6943,2-Isopropylphenol,"{'creosote', 'medicinal', 'phenolic'}"
+6949,Guaiene,"{'powdery', 'wood', 'guaiacwood', 'woody', 'dry', 'spice', 'sweet', 'spicy'}"
+69600,2-Hydroxy-4-methoxybenzaldehyde,{'vanillin'}
+69816,Allyl thiocyanate,{''}
+6985,"2',4'-Dimethylacetophenone","{'mimosa', 'floral', 'woody', 'minty', 'sweet'}"
+6986,2-Isopropyl-5-methylcyclohexanone,"{'fresh', 'cool', 'minty', 'green', 'sweet', 'mint', 'peppermint'}"
+6987,Piperitone,"{'fresh', 'medicinal', 'fruit', 'camphor', 'minty', 'sweet', 'mint', 'herbal'}"
+6988,Pulegone,"{'camphor', 'minty', 'buchu', 'fresh', 'herbal', 'peppermint', 'lime'}"
+6989,Thymol,"{'medicinal', 'camphor', 'phenolic', 'thyme', 'herbal'}"
+6993580,87-91-2,{''}
+69963,5-Hexen-1-ol,{'green'}
+6997366,(E)-hex-2-enoate,"{'must', 'fat', 'powerful', 'warm', 'sweet', 'herbal', 'fruity'}"
+6998,Salicylaldehyde,"{'cooling', 'medical', 'wintergreen', 'spicy', 'cinnamon'}"
+7002,1-Methylnaphthalene,"{'chemical', 'naphthyl', 'medicinal', 'camphor'}"
+702,ethanol,"{'ethereal', 'strong', 'alcoholic', 'medical', 'sweet'}"
+7041,"2,6-Dimethoxyphenol","{'powdery', 'bacon', 'balsamic', 'phenol', 'woody', 'medicine', 'phenolic', 'smoke', 'smoky'}"
+7043,"1,2-Dimethoxybenzene","{'vanilla', 'creamy', 'phenolic', 'musty', 'sweet'}"
+7047,Quinoline,"{'tobacco', 'medical', 'rubber', 'musty', 'earthy'}"
+70,4-Methyl-2-oxovaleric acid,{'fruity'}
+7055,2-Methylnaphthalene,{''}
+7059,6-Methylquinoline,"{'tobacco', 'castoreum', 'leather', 'civet', 'fecal', 'tonka'}"
+7095,Biphenyl,"{'geranium', 'rose', 'pungent', 'green'}"
+70962,(+)-Isomenthone,{'minty'}
+7127,Methyleugenol,"{'anise', 'carnation', 'bitter', 'peach', 'chocolate', 'creamy', 'apricot', 'plum', 'mesquite', 'spice', 'fresh', 'spicy', 'banana', 'raspberry', 'oily', 'warm', 'sweet', 'balsam', 'coconut', 'cinnamon', 'vanilla', 'clove', 'musty'}"
+7136,Acetyleugenol,"{'floral', 'woody', 'carnation', 'clove', 'spice', 'sweet', 'fresh', 'malt'}"
+7144,2-Methoxy-4-Methylphenol,"{'spice', 'vanilla', 'phenolic', 'leather', 'bacon', 'carnation', 'mesquite', 'bitter', 'medicinal', 'medical', 'smoky', 'clove'}"
+7146,2-Phenylpropanal,"{'leaf', 'floral', 'lilac', 'hyacinth', 'green', 'fresh', 'sharp'}"
+7147,1-Phenyl-1-propanol,"{'floral', 'sweet', 'balsam'}"
+7148,Propiophenone,"{'lilac', 'hawthorn'}"
+7150,Methyl Benzoate,"{'cananga', 'wintergreen', 'almond', 'herb', 'sweet', 'phenolic', 'prune', 'lettuce', 'floral'}"
+7151,Methyl Nicotinate,"{'tobacco', 'herbal', 'warm'}"
+7165,Ethyl Benzoate,"{'anise', 'cherry', 'fruit', 'wintergreen', 'dry', 'bitter', 'celery', 'plum', 'musty', 'berry', 'camomile', 'raspberry', 'grape', 'flower', 'cranberry', 'sweet', 'balsam', 'strawberry', 'minty', 'banana', 'fruity'}"
+7193,Isopentyl benzoate,"{'sweet', 'waxy', 'balsamic', 'green'}"
+7194,Phenethyl benzoate,"{'balsam', 'honey', 'soft', 'rose', 'floral'}"
+7222,Benzothiazole,"{'meat', 'cooked', 'coffee', 'sulfury', 'nutty', 'vegetable', 'gasoline', 'rubbery', 'rubber'}"
+72276,(-)-Epicatechin,{'bitter'}
+72277,(-)-Epigallocatechin,{'bitter'}
+72304,Isoflavone,{'bitter'}
+72344,Nobiletin,{'bitter'}
+72,"3,4-Dihydroxybenzoic Acid","{'balsamic', 'mild', 'phenolic'}"
+7237,O-Xylene,{'geranium'}
+7247,"1,2,4-Trimethylbenzene",{'plastic'}
+7249,"3,4-Dimethylphenol","{'flat', 'dry'}"
+7267,"2,5-Dimethylphenol","{'naphthyl', 'bacon', 'phenolic', 'smoke', 'sweet'}"
+7284,2-Methylbutyraldehyde,"{'cocoa', 'almond', 'nutty', 'coffee', 'musty'}"
+7288,3-Pentanone,"{'acetone', 'ethereal', 'ether'}"
+7302,gamma-Butyrolactone,"{'creamy', 'caramel', 'fatty', 'oily', 'sweet'}"
+7304,1-Methyl-1H-pyrrole,"{'powerful', 'herbal', 'woody', 'smoky'}"
+7311,"2,4-Di-tert-butylphenol",{''}
+7335,Carvyl Acetate,"{'green', 'fruity', 'spearmint', 'minty', 'sweet'}"
+7341,2-Methylpentanoic acid,"{'cheese', 'sour'}"
+7342,Ethyl Isobutyrate,"{'fusel', 'sweet', 'strawberry', 'alcoholic', 'ethereal', 'rubber', 'rummy', 'fruity'}"
+7344,Ethyl Lactate,"{'buttery', 'fruit', 'tart', 'butterscotch', 'butter', 'fruity', 'sharp'}"
+73467,Verbenalin,{'bitter'}
+7351,Isobutyl isobutyrate,"{'pineapple', 'grape skin', 'tropical'}"
+7353,Butyl isobutyrate,"{'apple', 'tropical', 'green', 'sweet', 'banana', 'fruity'}"
+7359,2-Ethylbutanal,"{'cocoa', 'ethereal', 'green', 'sweet', 'fruity'}"
+735940,623-15-4,{''}
+7360,Tetrahydrofurfuryl Alcohol,"{'cauliflower', 'vegetable', 'oily', 'warm', 'faint', 'caramel'}"
+7361,Furfuryl Alcohol,"{'alcoholic', 'burnt', 'bitter', 'chemical', 'coffee', 'bread', 'sweet', 'musty', 'caramel'}"
+7362,2-Furaldehyde,"{'baked', 'fragrant', 'almond', 'woody', 'bread', 'sweet'}"
+7363,Furfuryl mercaptan,"{'sulfurous', 'roasted', 'smoky', 'burnt', 'oily', 'sulfury', 'chocolate', 'coffee', 'roast', 'fishy', 'fatty'}"
+7364,Thiophene-2-carbaldehyde,"{'sulfur', 'sulfurous'}"
+73750,S-Methyl thioacetate,"{'egg', 'sulfurous', 'cabbage', 'vegetable', 'dairy', 'cheese'}"
+7393,4-tert-Butylphenol,"{'leather', 'oakmoss'}"
+7409,1-Phenylethanol,"{'acetophenone', 'gardenia', 'hyacinth', 'sweet', 'fresh'}"
+7410,Acetophenone,"{'hawthorne', 'acacia', 'flower', 'hawthorn', 'almond', 'mimosa', 'bitter', 'chemical', 'sweet', 'must', 'pungent'}"
+7438,Carveol,"{'caraway', 'fresh', 'minty', 'spearmint'}"
+7439,Carvone,"{'fennel', 'basil', 'licorice', 'minty', 'mint'}"
+743,Glutaric Acid,{'odorless'}
+7456,Methyl 4-hydroxybenzoate,{'odorless'}
+7459,p-Menthane,{'pine'}
+7460,Alpha-Phellandrene,"{'peppery', 'turpentine', 'spice', 'woody', 'green', 'mint', 'citrus', 'herbal', 'terpene'}"
+7461,Gamma-Terpinene,"{'terpene', 'turpentine', 'woody', 'lemon', 'gasoline', 'tropical', 'bitter', 'oily', 'herbal', 'lime'}"
+7462,Alpha-Terpinene,"{'terpene', 'medicinal', 'citrus', 'woody', 'lemon', 'bitter', 'camphoraceous', 'herbal'}"
+7463,P-Cymene,"{'spice', 'fresh', 'woody', 'gasoline', 'citrus', 'solvent', 'terpene'}"
+7465,4-Isopropylphenol,"{'spicy', 'woody', 'medicinal', 'warm'}"
+7469,4'-Hydroxyacetophenone,"{'mimosa', 'mild', 'hawthorn', 'sweet', 'balsam'}"
+7476,4'-Methoxyacetophenone,"{'vanilla', 'caramel', 'powdery', 'butter', 'anisic', 'acacia', 'hawthorn', 'balsamic', 'bitter', 'sweet'}"
+7478,4-Methoxybenzoic Acid,"{'putrid', 'sweet', 'cadaverous', 'faint'}"
+7501,Styrene,"{'floral', 'balsamic', 'gasoline', 'plastic', 'sweet', 'balsam'}"
+7507,Cyclohexylmethanol,{''}
+7509,Benzyl Mercaptan,"{'sulfurous', 'horseradish', 'alliaceous', 'garlic', 'onion', 'coffee', 'mint', 'sharp'}"
+7519,Anisole,"{'anise', 'ethereal', 'alcohol', 'gasoline', 'phenolic', 'cheese', 'butter'}"
+7520,Thioanisole,"{'toluene', 'spicy', 'solvent', 'woody'}"
+7523,2-Ethylpyridine,"{'grass', 'grassy', 'green'}"
+75263,Isopropyl isothiocyanate,"{'mustard', 'pungent'}"
+7531,2-Methyl-1-phenyl-2-propanol,"{'rose', 'floral', 'bitter', 'oily', 'cortex', 'green', 'rhubarb', 'clean'}"
+753,glycerol,"{'odorless', 'sweet'}"
+75427,(R)-(+)-Citronellal,"{'citrus', 'fresh', 'herbal'}"
+75515,S-Methyl hexanethioate,"{'ethereal', 'fruity', 'green', 'tropical'}"
+75552,Diallyl tetrasulfide,"{'onion', 'garlic', 'strong'}"
+7559,Methyl Phenylacetate,"{'floral', 'almond', 'spice', 'sweet', 'waxy', 'honey'}"
+7583,Diphenyl oxide,"{'geranium', 'green', 'phenolic', 'leaf'}"
+7590,Ethyl Phenylacetate,"{'rose', 'anise', 'fruit', 'cocoa', 'floral', 'raspberry', 'bitter', 'balsam', 'chocolate', 'sweet', 'honey', 'melon', 'grapefruit'}"
+7600,102-19-2,"{'mango', 'jasmine', 'cocoa', 'honey', 'castoreum', 'animal', 'chocolate', 'sweet', 'balsam'}"
+7601,Phenethyl phenylacetate,"{'balsam', 'honey', 'rose', 'hyacinth', 'floral', 'sweet'}"
+76319594,(-)-alpha-Copaene,{''}
+7643,Methyl 3-phenylpropionate,"{'wine', 'floral', 'honey', 'balsam', 'fruity'}"
+7646,Benzyl isobutyrate,"{'fruity', 'oily', 'tropical', 'jasmin', 'rose', 'sweet', 'jasmine'}"
+7650,Benzyl butyrate,"{'berry', 'jasmine', 'jasmin', 'apricot', 'plum', 'peach', 'pear', 'cheese', 'logenberry', 'fresh', 'butter', 'fruity'}"
+7651,Benzyl isovalerate,"{'apple', 'pineapple', 'sweet', 'herbal', 'fruity'}"
+7654,Phenethyl acetate,"{'honey', 'sweet', 'rose', 'tropical', 'tobacco', 'fruity', 'floral'}"
+7655,Phenethyl isobutyrate,"{'rose', 'floral', 'bitter', 'peach', 'tea', 'fruity', 'pastry'}"
+7657,Benzyl ether,"{'rose', 'cherry', 'almond', 'plastic', 'chocolate', 'mushroom', 'sweet', 'earthy', 'fruity'}"
+7658,Phenethyl butyrate,"{'strawberry', 'floral', 'sweet', 'musty', 'yeast'}"
+7664,103-61-7,{''}
+768,hydrogen cyanide,{'bitter'}
+76922,3-Butenyl isothiocyanate,"{'aromatic', 'pungent'}"
+7695,4-Methoxybenzyl acetate,"{'vanilla', 'creamy', 'cherry', 'powdery', 'coumarin', 'almond', 'plum', 'sweet', 'balsam', 'fruity', 'tonka'}"
+7702,4-Propylanisole,"{'anise', 'sassafrass', 'fennel', 'licorice', 'sweet'}"
+7704,104-50-7,"{'creamy', 'fatty', 'dairy', 'sweet', 'waxy', 'coconut', 'tonka'}"
+7707,3-Phenylpropanal,"{'leaf', 'fresh', 'balsam', 'strawberry', 'chocolate', 'green', 'clove', 'foliage', 'honey', 'storax', 'cortex', 'hyacinth', 'cinnamon'}"
+7708,Benzyl formate,"{'black tea', 'floral', 'almond', 'apricot', 'pineapple', 'cranberry', 'spicy', 'fruity'}"
+7710,gamma-Nonanolactone,"{'creamy', 'buttery', 'oily', 'peach', 'sweet', 'waxy', 'coconut'}"
+7711,2-Phenylethyl formate,"{'green', 'watercress', 'rose', 'herbal', 'bitter', 'hyacinth'}"
+7714,Gamma-undecalactone,"{'creamy', 'apricot', 'peach', 'lactonic', 'ketonic', 'coconut', 'fruity', 'fatty'}"
+77151,Ethyl trisulfide,"{'onion', 'sulfurous', 'garlic'}"
+7720,2-Ethylhexan-1-ol,"{'fresh', 'green', 'oily', 'citrus', 'rose', 'floral', 'sweet'}"
+7725,p-Tolualdehyde,"{'cherry', 'fruity', 'deep', 'phenolic'}"
+7728,5-Ethyl-2-methylpyridine,"{'roasted', 'strong', 'potato', 'nutty', 'raw', 'earthy'}"
+7731,4-Methylanisole,"{'cedar', 'naphthyl', 'powdery', 'cresol', 'nutty', 'camphoraceous', 'ylang'}"
+7738,4-Methoxybenzyl Alcohol,"{'vanilla', 'caramel', 'powdery', 'chocolate', 'honey', 'flower', 'hawthorn', 'rose', 'lilac', 'hyacinth', 'floral', 'sweet'}"
+7742,gamma-Heptalactone,"{'fruit', 'fat', 'nutty', 'hay', 'nut', 'sweet', 'caramel', 'coconut', 'tonka'}"
+7749,Ethyl Propionate,"{'fruit', 'juicy', 'pineapple', 'rum', 'grape', 'sweet', 'fruity'}"
+7755,3-Methylvaleric acid,"{'sharp', 'animal', 'green', 'acidic', 'cheesy', 'fruity', 'sweaty'}"
+7761,Diethyl Malonate,"{'apple', 'sweet', 'fruity', 'green'}"
+7762,Ethyl Butyrate,"{'fruit', 'apple', 'juicy', 'cognac', 'pineapple', 'banana', 'fruity'}"
+7765,Acetal,"{'cream', 'vegetable', 'green', 'tart', 'earthy', 'honey', 'nut', 'ether', 'fruit', 'sweet'}"
+7768,azepan-2-one,"{'bitter', 'spicy', 'amine'}"
+7770,Propyl butyrate,"{'apricot', 'sweaty', 'rancid', 'pineapple', 'sweet', 'solvent', 'fruity'}"
+7772,Isoamyl propionate,"{'banana', 'tomato', 'fruit', 'fruity', 'ripe', 'tropical', 'bitter', 'sweet', 'pineapple'}"
+7775,Isobutyl hexanoate,"{'pineapple', 'tropical', 'peach', 'green', 'sweet', 'fruity'}"
+7778,Citronellyl formate,"{'rose', 'cucumber', 'apricot', 'plum', 'peach', 'honey', 'bergamot'}"
+77837,"2,5-Dimethylthiazole","{'nutty', 'roasted'}"
+77840,2-Vinylpyrazine,{'nutty'}
+778574,Isobutyl cinnamate,{''}
+7792,"3,7-Dimethyl-1-octanol","{'citrus', 'aldehydic', 'leathery', 'soapy', 'bitter', 'green', 'musty', 'waxy'}"
+77932,Diisopropyl disulfide,"{'alliaceous', 'meaty', 'sulfurous', 'cabbage', 'onion'}"
+7794,Citronellal,"{'fat', 'herbal', 'dry', 'rose', 'citrus', 'aldehydic', 'waxy', 'floral', 'lemon', 'cherry', 'sweet'}"
+7795,Isoamyl butyrate,"{'banana', 'melon', 'tropica', 'green', 'apricot', 'fruity', 'hop_oil', 'papaya', 'whiskey', 'pear'}"
+7797,Ethyl Heptanoate,"{'melon', 'plum', 'fruity', 'fruit', 'wine', 'rum', 'pineapple', 'cognac'}"
+7799,Ethyl Octanoate,"{'banana', 'brandy', 'fat', 'waxy', 'apricot', 'fruity', 'fruit', 'wine', 'sweet', 'pear'}"
+7800,Ethyl dodecanoate,"{'leaf', 'floral', 'soapy', 'sweet', 'waxy', 'clean'}"
+7802,3-Heptanone,"{'powerful', 'fruity', 'green', 'fatty'}"
+7803,Propyl Propionate,"{'pungent', 'pineapple', 'bitter', 'chemical', 'sweet', 'fruity', 'sharp'}"
+7809,P-Xylene,{''}
+78120,Hexyl isothiocyanate,"{'green', 'sharp'}"
+78151,sec-Butyl isothiocyanate,{''}
+78152,Heptyl isothiocyanate,{''}
+78160,Erucin,"{'cabbage', 'radish'}"
+78199,Ethyl (methylthio)acetate,"{'wine_like', 'apricot', 'citrus', 'floral', 'vegetable', 'woody', 'herbaceous', 'nutty', 'green', 'meaty', 'spicy', 'earthy', 'fruity', 'fatty'}"
+7820,Dimethyl Succinate,"{'floral', 'sweet', 'fruity', 'green'}"
+7824,Methyl Hexanoate,"{'fresh', 'fruity', 'ether', 'fruit', 'sweet', 'pineapple'}"
+7826,Methyl Heptanoate,"{'berry', 'fruit', 'floral', 'orris', 'green', 'sweet', 'waxy'}"
+7845,"1,3-Butadiene",{''}
+7847,Acrolein,"{'almond', 'cherry'}"
+7848,1-Propanethiol,"{'cabbage', 'natural', 'onion', 'sweet', 'gassy'}"
+78484,1-Methoxyhexane,"{'painty', 'lavender', 'sweet', 'herbal', 'fruity'}"
+784,hydrogen peroxide,{'bitter'}
+7852,Propylamine,{'ammoniacal'}
+7858,Allyl Alcohol,"{'mustard', 'pungent'}"
+785,hydroquinone,{''}
+78879,3-Methyl-3-butenyl acetate,{'fruity'}
+7888,Hydroxycitronellal,"{'lily', 'floral', 'tropical', 'green', 'sweet', 'waxy', 'melon'}"
+78925,2-(Methylthio)ethanol,"{'meaty', 'sulfurous'}"
+7894,Isoamylamine,"{'ammonia', 'unpleasant'}"
+7895,2-Pentanone,"{'ethereal', 'banana', 'fishy', 'alcohol', 'woody', 'fruity', 'ether', 'fruit', 'wine', 'sweet', 'potato'}"
+7896,"1,3-Butanediol","{'bitter', 'odorless'}"
+79023,Diosphenol,"{'blackcurrant', 'leaves', 'buchu', 'minty'}"
+79045,"1,2-Dithiolane",{''}
+79086,3-Methylbutyl isothiocyanate,{'green'}
+7909,4-Methyl-2-pentanone,"{'dairy', 'green', 'spice', 'herbal', 'solvent', 'fruity', 'sharp'}"
+79105,"3,3-Dimethylcyclohexanol",{''}
+7915,Isopropyl Acetate,"{'ethereal', 'chemical', 'sweet', 'banana', 'fruity'}"
+7918,Acetic Anhydride,"{'vinegar', 'sharp'}"
+7921,gamma-Valerolactone,"{'cocoa', 'tobacco', 'woody', 'warm', 'sweet', 'herbal'}"
+7929,M-Xylene,{'plastic'}
+7936,"2,4-Lutidine",{''}
+7937,"2,6-Dimethylpyridine","{'cocoa', 'woody', 'oily', 'nutty', 'bready', 'amine'}"
+7938,"2,6-Dimethylpyrazine","{'cocoa', 'roasted nut', 'roasted nuts', 'roast beef', 'coffee'}"
+7943,Dimethyl malonate,{'fruity'}
+7945,Ethyl Isovalerate,"{'tutti frutti', 'fruit', 'apple', 'pineapple', 'sweet', 'fruity'}"
+7947,Mesitylene,{''}
+7957,"2,6-Dimethyl-4-heptanol","{'fermented', 'ethereal', 'yeasty', 'mild', 'fresh'}"
+7958,"2,6-Dimethyl-4-heptanone","{'banana', 'metallic', 'green', 'fruity', 'pineapple'}"
+7962,Methylcyclohexane,{''}
+7964,Chlorobenzene,{''}
+7966,Cyclohexanol,"{'menthol', 'phenol', 'camphor'}"
+7967,Cyclohexanone,"{'acetone', 'minty'}"
+7969,Benzenethiol,"{'penetrating', 'repulsive', 'garlic'}"
+7975,2-Methylpyridine,"{'bitter', 'sweat'}"
+7976,2-Methylpyrazine,"{'cocoa', 'green', 'chocolate', 'popcorn', 'roasted', 'nutty', 'peanut'}"
+79803,1-Pyrroline,"{'ammoniacal', 'shrimp'}"
+7981,Butyl Isovalerate,"{'sweet', 'fruit', 'apple', 'peach', 'pear', 'green', 'pineapple'}"
+79828,"Tetrasulfide, dimethyl","{'cabbage', 'meaty', 'sulfur', 'garlic'}"
+7983,Butyl butyrate,"{'berry', 'apple', 'pineapple', 'peach', 'pear', 'sweet', 'banana', 'fruity'}"
+798,indole,"{'animal', 'fecal', 'mothball', 'jasmine', 'fishy', 'floral', 'naphthelene', 'burnt', 'honey', 'moth ball'}"
+7991,Valeric acid,"{'putrid', 'sickening', 'rancid', 'animal', 'sweat', 'acidic', 'sweaty'}"
+7997,Propyl acetate,"{'fruity', 'fusel', 'celery', 'bitter', 'solvent', 'raspberry', 'pear'}"
+79990,"4-Ethyl-1,2-dimethoxybenzene","{'musty', 'earthy'}"
+8003,Pentane,{'alkane'}
+80046,Diisopropyl trisulfide,"{'sulfury', 'garlic'}"
+8007,Butylamine,"{'fishy', 'ammonia'}"
+8012,1-Butanethiol,"{'coffee', 'egg', 'garlic', 'sulfury', 'onion'}"
+8013,"1,3-Propanedithiol","{'meaty', 'sulfurous'}"
+8021,Diethylamine,"{'fishy', 'ammoniacal'}"
+8025,Ethyl Formate,"{'ethereal', 'alcohol', 'green', 'cognac', 'rose', 'bitter', 'pungent'}"
+8027,Pyrrole,"{'ethereal', 'nutty', 'warm', 'sweet'}"
+8028,Tetrahydrofuran,{''}
+802,indole-3-acetic acid,"{'mild', 'sour', 'odorless'}"
+8038,Isobutyl Acetate,"{'fruit', 'apple', 'ethereal', 'tropical', 'bitter', 'sweet', 'banana', 'fruity'}"
+8042,Isopropyl Myristate,"{'oily', 'fatty', 'faint', 'cinnamon'}"
+8048,Ethyl Decanoate,"{'apple', 'oily', 'pear', 'grape', 'sweet', 'brandy', 'waxy', 'fruity'}"
+8051,2-Heptanone,"{'woody', 'soap', 'fruity', 'spicy', 'herbal', 'coconut', 'sweet', 'cinnamon'}"
+8052,Isopentyl formate,"{'vinous', 'fruit', 'ethereal', 'plum', 'dry', 'blackcurrant', 'green', 'earthy'}"
+8058,Hexane,{'alkane'}
+8060,Amylamine,"{'fishy', 'ammoniacal'}"
+8063,Pentanal,"{'berry', 'bready', 'fruity', 'almond', 'nutty', 'malt', 'fermented', 'pungent'}"
+8073,Propyl Formate,"{'berry', 'ethereal', 'bitter', 'rum', 'green', 'sweet', 'fruity'}"
+8077,Diethyl Disulfide,"{'garlic', 'onion', 'ripe', 'greasy', 'gassy'}"
+80790,Carvacryl methyl ether,"{'spicy', 'herbal', 'leafy'}"
+80796,Lauryl 3-mercaptopropionate,{''}
+8082,Piperidine,"{'animal', 'bitter', 'heavy', 'floral', 'sweet'}"
+8091,Methyl octanoate,"{'aldehydic', 'vegetable', 'green', 'waxy', 'orange', 'herbal', 'sweet'}"
+8093,Octan-2-one,"{'weedy', 'natural', 'woody', 'gasoline', 'bitter', 'soap', 'herbal', 'earthy'}"
+8094,Heptanoic Acid,"{'cheesy', 'cheese', 'sour', 'rancid', 'sweat'}"
+8103,1-Hexanol,"{'ethereal', 'resin', 'alcoholic', 'green', 'oil', 'flower', 'fruity', 'fusel', 'sweet'}"
+8106,1-Hexanethiol,"{'sulfurous', 'sulfur', 'roasted', 'fat', 'burnt', 'garlic', 'sulfury', 'meaty', 'fatty'}"
+8118,Propyl sulfide,"{'onion', 'garlic'}"
+81221,"2,4-Dimethylanisole","{'spicy', 'herbal'}"
+8122,Ethyl Stearate,"{'mild', 'waxy'}"
+81263,Rhodinol,{''}
+8129,1-Heptanol,"{'strawberry', 'woody', 'leafy', 'chemical', 'peony', 'green', 'sweet', 'musty', 'herbal', 'violet', 'coconut'}"
+8130,Heptanal,"{'aldehydic', 'fresh', 'fat', 'rancid', 'wine-lee', 'green', 'fatty', 'ozone', 'citrus', 'herbal'}"
+8139,Methyl Dodecanoate,"{'creamy', 'fat', 'soapy', 'mushroom', 'waxy', 'coconut'}"
+8141,Nonane,"{'alkane', 'gasoline'}"
+8158,Nonanoic Acid,"{'cultured dairy', 'fat', 'dirty', 'green', 'waxy', 'cheese'}"
+8159,Heptyl acetate,"{'fruit', 'apricot', 'woody', 'rum', 'ripe', 'pear', 'green', 'fresh'}"
+8163,2-Undecanone,"{'creamy', 'floral', 'orris', 'orange', 'iris', 'green', 'fresh', 'waxy', 'fruity', 'fatty'}"
+8164,Octyl acetate,"{'waxy', 'mushroom', 'green', 'herbal', 'earthy'}"
+8167,Decyl Acetate,"{'rose', 'laundered cloths', 'oil', 'citrus', 'soapy', 'orange', 'pineapple', 'fresh', 'waxy', 'clean'}"
+8169,Heptyl formate,"{'herbal', 'cucumber', 'apple', 'floral', 'plum', 'green', 'waxy'}"
+8174,1-Decanol,"{'rose', 'fat', 'floral', 'watery', 'orange', 'fatty', 'sweet', 'waxy', 'clean'}"
+8175,Decanal,"{'floral', 'citrus', 'aldehydic', 'tallow', 'soap', 'sweet', 'orange peel', 'waxy'}"
+8176,Octyl formate,"{'rose', 'cucumber', 'orange', 'waxy', 'fruity'}"
+8180,Undecanoic Acid,"{'creamy', 'oil', 'cheese', 'waxy', 'coconut', 'fatty'}"
+8181,Methyl Palmitate,"{'oily', 'waxy', 'fatty'}"
+8182,Dodecane,{'alkane'}
+8184,1-Undecanol,"{'fresh', 'mandarin', 'waxy', 'citrus', 'clean clothes', 'rose', 'floral', 'soapy'}"
+8185,10-Undecen-1-Ol,"{'floral', 'citrus', 'ozone', 'fresh', 'waxy', 'clean'}"
+8186,Undecanal,"{'aldehydic', 'fresh', 'green', 'waxy', 'oil', 'fatty', 'pungent', 'laundry', 'citrus', 'floral', 'sweet', 'soapy'}"
+8187,10-Undecenal,"{'rose', 'citrus', 'aldehydic', 'soapy', 'mandarin', 'waxy', 'fatty'}"
+8193,1-Dodecanol,"{'fat', 'soapy', 'wax', 'waxy', 'honey', 'coconut', 'earthy', 'fatty'}"
+8194,Dodecanal,"{'aldehydic', 'fat', 'lily', 'green', 'waxy', 'citrus', 'floral', 'soapy'}"
+81964,2-Phenylethyl pentanoate,"{'rose', 'fruity', 'leaf'}"
+8201,Methyl Stearate,"{'oily', 'waxy', 'fat'}"
+8205,Dodecyl Acetate,"{'laundered cloths', 'sweet', 'fresh', 'waxy', 'clean'}"
+8207,1-Tridecanol,"{'musty', 'must'}"
+8209,1-Tetradecanol,"{'fruity', 'orris', 'waxy', 'coconut'}"
+82227,7785-70-8,{''}
+82229,l-alpha-Fenchone,"{'herbal', 'woody', 'earthy', 'camphor'}"
+8222,Eicosane,"{'waxy', 'alkane'}"
+82336,Methyl 2-(dimethylamino)benzoate,"{'orange', 'fruity', 'leaf'}"
+8257,2-Methyl-3-Buten-2-Ol,"{'oily', 'herb', 'earthy', 'herbal'}"
+8294,Linalyl Acetate,"{'fruit', 'citrus', 'woody', 'lavender', 'green', 'sweet', 'bergamot'}"
+8299,Hydroxyacetone,"{'ethereal', 'sweet', 'caramellic', 'pungent'}"
+83036,13002-09-0,"{'fermented', 'alcoholic', 'ethereal', 'green', 'fruity'}"
+8314,2-Methylbutanoic acid,"{'strawberry', 'acid', 'pungent', 'sweat', 'roquefort cheese', 'cheese', 'sour'}"
+8363,Benzyl Salicylate,"{'balsam', 'oily', 'clean', 'herbal', 'sweet'}"
+8365,Ethyl salicylate,"{'balsam', 'mint', 'wintergreen', 'spicy', 'minty', 'floral', 'sweet'}"
+8369,Maltol,"{'bread', 'baked', 'jam', 'caramel', 'cotton', 'fruity', 'candy', 'sweet'}"
+8375,2'-Hydroxyacetophenone,"{'hawthorne', 'tobacco', 'hawthorn', 'phenolic', 'sweet', 'herbal', 'honey'}"
+8403,Dicyclohexyl ketone,{''}
+8405,Isoquinoline,"{'anise', 'benzaldehyde', 'sweet', 'herbal', 'balsam'}"
+8418,Anthracene,{''}
+8419,"3,4-Dimethoxybenzaldehyde","{'vanilla', 'creamy', 'cherry', 'woody', 'minty', 'sweet', 'caramel'}"
+84234,Methyl phenyl disulfide,"{'pungent', 'turnup', 'radish'}"
+8432,1-Phenylethyl propionate,"{'weedy', 'rose', 'gardenia', 'floral', 'green', 'sweet', 'fresh'}"
+8438,Piperonal,"{'vanilla', 'coconut', 'powdery', 'bitter', 'flower', 'sweet', 'violet', 'heliotrope'}"
+8452,Cyclopentanone,{'minty'}
+84532,Isopinocamphone,"{'camphoreous', 'cedar'}"
+8468,Vanillic acid,"{'bean', 'powdery', 'creamy', 'dairy', 'vanilla', 'sweet', 'milky'}"
+84825,rosefuran,"{'mint', 'caramel', 'green', 'minty'}"
+8499,Methyl 4-Methoxybenzoate,"{'anise', 'sweet', 'herbal', 'balsam', 'melon'}"
+8500,4'-Methylacetophenone,"{'acetophenone', 'hawthorne', 'cherry', 'mimosa', 'coumarin', 'bitter almond', 'hawthorn', 'sweet'}"
+85053,2-Ethylthiazole,"{'nutty', 'green'}"
+853433,Isoeugenol,"{'carnation', 'clove', 'spicy', 'floral', 'woody', 'sweet', 'flower', 'phenolic'}"
+85519,3-(Methylthio)propyl acetate,"{'ester', 'fatty'}"
+85522,Methyl (methylthio)acetate,"{'cooked potato', 'roasted', 'potato', 'roasted nut', 'tropical', 'cooked', 'nut', 'fruity'}"
+85704,Naringen,{'bland'}
+85730,14400-67-0,"{'ester', 'caramel', 'fruity'}"
+8635,Methyl Anthranilate,"{'medicinal', 'strawberry', 'flower', 'orange flower', 'lemon', 'grapefruit', 'bitter', 'neroli', 'grape', 'honey', 'fruity', 'lime'}"
+8655,Syringaldehyde,"{'tonka', 'plastic', 'woody', 'mild', 'sweet'}"
+8658,2-Methoxybenzaldehyde,"{'vanilla', 'acetophenone', 'powdery', 'almond', 'bitter', 'guaiacol', 'hawthorn', 'sweet'}"
+86597,alpha-Bisabolene,"{'spicy', 'balsamic'}"
+86608,alpha-Bergamotene,{''}
+86609,.alpha.-Cubebene,"{'wax', 'herb', 'herbal', 'waxy'}"
+86752,4-Menthen-8-ol,"{'metal', 'ginger'}"
+86753,p-Menth-1-en-9-ol,"{'herb', 'herbal', 'fruit', 'fruity'}"
+86818,2-methyl-3-[4-(propan-2-yl)cyclohex-1-en-1-yl]propanal,"{'spicy', 'herbal'}"
+8698,Butyl Benzoate,"{'balsamic', 'amber', 'mild', 'balsam', 'fruity'}"
+8712,2-Methylbenzenethiol,"{'egg', 'sulfurous', 'garlic', 'onion', 'rubber', 'meaty'}"
+8723,2-Methyl-1-Butanol,"{'onion', 'fruity', 'malt', 'wine', 'roasted'}"
+8738,Butyl Lactate,"{'creamy', 'fermented', 'mushroom', 'waxy', 'fruity'}"
+87436,4-Pentenyl isothiocyanate,"{'horseradish', 'mustard'}"
+87466,2-Propylpyrazine,"{'nutty', 'vegetable', 'green'}"
+8748,Beta-Terpineol,"{'pungent', 'must', 'woody', 'earthy'}"
+875,DL-Tartaric acid,"{'very mild', 'caramellic'}"
+8768,"3,4-Dihydroxybenzaldehyde","{'almond', 'bitter', 'dry', 'medical'}"
+876,Dl-Methionine,"{'acidic', 'sulfurous', 'mild'}"
+87793,2-Hexylthiophene,"{'fruity', 'floral', 'green', 'meaty', 'gassy'}"
+8785,Benzyl Acetate,"{'cherry', 'jasmine', 'jasmin', 'apple', 'apricot', 'floral', 'plum', 'boiled vegetable', 'bitter', 'sweet', 'fresh', 'fruity'}"
+878,methanethiol,"{'decomposing cabbage', 'garlic', 'sulfur', 'gasoline'}"
+8792,Phenylethyl isovalerate,"{'rose', 'apricot', 'floral', 'bitter', 'peach', 'sweet', 'fruity'}"
+8794,Phenylacetonitrile,{''}
+880,methylglyoxal,"{'ethereal', 'acidic', 'rum', 'sweet', 'brown'}"
+8815,Estragole,"{'spice', 'alcohol', 'vanilla', 'green', 'licorice', 'fennel', 'herbal', 'sassafrass', 'minty', 'anise', 'sweet'}"
+8821,Ethyl Acrylate,"{'acrylate', 'plastic', 'fruity', 'harsh'}"
+88290,19872-52-7,"{'sulfurous', 'box tree', 'blackcurrant', 'meaty', 'cat-urine'}"
+8834,Citronellyl propionate,"{'neroli', 'green', 'waxy', 'fruity', 'rose', 'bitter', 'floral'}"
+8835,Citronellyl butyrate,"{'green', 'waxy', 'fruity', 'tropical', 'rose', 'fruit', 'floral', 'sweet', 'geranium'}"
+8842,Citronellol,"{'rose bud', 'leather', 'waxy', 'citrus', 'rose', 'bitter', 'floral', 'geranium'}"
+88454,Hexyl propionate,"{'rotting', 'fruit', 'green', 'pear', 'musty', 'melon', 'fruity'}"
+88460,Galegine sulfate,{'bitter'}
+8857,Ethyl Acetate,"{'anise', 'balsam', 'pineapple', 'ethereal', 'fruity', 'sweet', 'green', 'weedy'}"
+8858,Mesityl Oxide,"{'acrylic', 'vegetable', 'earthy', 'chemical', 'sweet', 'pungent'}"
+8863,Hydroxycitronellal dimethyl acetal,"{'lily', 'rose acetate', 'waxy', 'green'}"
+8868,ethyl acetoacetate,"{'apple', 'green', 'fresh', 'fruity', 'fatty'}"
+887,methanol,{'alcoholic'}
+8883,"2,5-Dimethyl-3-Hexyne-2,5-Diol",{''}
+8892,Hexanoic Acid,"{'cheese', 'sour', 'sweat', 'fatty'}"
+8900,Heptane,"{'ethereal', 'sweet', 'alkane'}"
+8907,Isopropyl Palmitate,"{'oily', 'bland', 'fat'}"
+8908,Hexyl acetate,"{'banana', 'fruit', 'green', 'fruity', 'herb', 'bitter', 'apple', 'sweet'}"
+8914,1-Nonanol,"{'fresh', 'fat', 'dusty', 'green', 'fatty', 'wet', 'orange', 'oily', 'clean', 'rose', 'bitter', 'floral'}"
+8918,Nonyl Acetate,"{'gardenia', 'fruit', 'soapy', 'tropical', 'bitter', 'green', 'sweet', 'waxy', 'fruity', 'clean'}"
+89306,2-Bornyl propionate,"{'turpentine', 'fruit', 'camphor', 'pungent', 'woody', 'lavender', 'pine'}"
+89316,"Cyclohexene, 4-ethenyl-4-methyl-3-(1-methylethenyl)-1-(1-methylethyl)-, (3R-trans)-","{'woody', 'wood'}"
+89421,dl-Codamine,{'bitter'}
+89594,nicotine,{'bitter'}
+89755,(+)-Dihydrocarveol,{''}
+9015,4-Methoxyphenol,"{'bitter', 'phenolic'}"
+9016,"1,4-Dimethoxybenzene","{'new mown hay', 'fennel', 'bitter', 'green', 'sweet'}"
+9017,Citronellyl acetate,"{'rose', 'fruit', 'floral', 'citrus', 'woody', 'lemon', 'dust', 'tropical', 'green', 'fruity'}"
+90246,S-Methyl 3-methylbutanethioate,"{'fermented', 'acrid', 'ripe', 'tomato', 'sulfury', 'mushroom', 'cheese', 'sharp'}"
+9025,"1,3-Dimethoxybenzene","{'nutmeg', 'acid', 'hazelnut', 'neroli', 'coconut', 'fruity'}"
+9064,Cianidanol,{'bitter'}
+90716,6-Methylheptanoic acid,{''}
+91354,Aromadendrene,"{'woody', 'wood'}"
+91457,beta-Eudesmol,"{'green', 'wood'}"
+91496,"Limonene 1,2-epoxide",{'fruit'}
+91865027,UNII-S32G48306Y,{''}
+92043553,Jasmine Oil,{''}
+92043681,"Glycerides, palm-oil mono- and di-, hydrogenated, 3-oxododecanoates",{''}
+92116,"(4R,4aR)-1,1,4,7-tetramethyl-1a,2,3,4,4a,5,6,7b-octahydrocyclopropa[e]azulene","{'balsam', 'balsamic', 'wood'}"
+92138,Elemol,"{'green', 'woody', 'sweet', 'wood'}"
+92139,Curcumene,{'herb'}
+92221,(+)-Camphene,"{'fir', 'camphor', 'woody', 'fresh', 'herbal'}"
+92231,Spathulenol,{''}
+92313,(-)-gamma-cadinene,{''}
+9256,Thiazole,"{'meaty', 'nutty', 'pyridine'}"
+9261,Pyrazine,"{'barley', 'roasted', 'hazelnut', 'sweet corn', 'pungent'}"
+92649,57074-34-7,{''}
+92762,alpha-Eudesmol,{''}
+92780,Crypton,"{'spice', 'woody', 'cumin', 'caraway', 'herbal'}"
+92794,Prunin,{'bitter'}
+929262,Sclareolide,{''}
+93046,"2,10-Epoxypinane",{''}
+93081,beta-Cubebene,"{'citrus', 'fruit', 'fruity'}"
+931,naphthalene,"{'dry', 'pungent', 'tar', 'tarry'}"
+93236,"2,3,5-Trithiahexane","{'onion', 'sulfurous', 'strong'}"
+94060,58461-27-1,"{'herb', 'herbal'}"
+94164,Santalene,{'woody'}
+94174,"(1aR,4S,4aS,7R,7aS)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulen-4-ol","{'tropical', 'minty', 'green', 'sweet', 'herbal', 'fruity'}"
+94217,"p-Menth-8-ene-1,2-diol","{'cool', 'minty'}"
+94254,3242-08-8,{''}
+94314,sec-Butyl Disulfide,{''}
+94378,Paradol,"{'spicy', 'herbal'}"
+94579,Isopulegol acetate,"{'leaf', 'woody', 'tropical', 'sweet', 'mint', 'peppermint'}"
+9473,Piperonyl Acetate,"{'jam', 'metallic', 'strawberry', 'floral', 'bitter', 'hawthorn', 'sweet'}"
+95337,2-Hexyl-1-decanol,{''}
+9548706,(-)-Germacrene A,{''}
+95495,"6,10-Dimethyl-2-undecanone",{''}
+957,1-octanol,"{'aldehydic', 'burnt', 'metal', 'green', 'waxy', 'mushroom', 'orange', 'rose', 'chemical'}"
+9589,3-Acetylpyridine,"{'woody', 'dry', 'nutty', 'popcorn', 'hawthorn', 'phenolic', 'sweet'}"
+9601691,Glucobrassicin,{'bitter'}
+9609,Diethyl sulfide,"{'ethereal', 'sulfurous'}"
+964,3-Hydroxypyruvic acid,"{'cabbage', 'sour', 'radish'}"
+96923,1-Hexadecanesulfonyl chloride,{''}
+971,oxalic acid,{''}
+97730,2-Nonenoic acid,{'fatty'}
+9793905,S-allyl-L-cysteine,{''}
+98043,Nerolidyl acetate,{''}
+98251,"2,4-Dimethylcyclohexanol",{''}
+98280,2-amino-3-(prop-2-en-1-ylsulfanyl)propanoic acid,"{'cooked', 'roasted'}"
+98497,Campholenic aldehyde,"{'amber', 'leafy', 'woody', 'green', 'herbal'}"
+9855795,Valencene,{''}
+985,palmitic acid,"{'slightly waxy', 'fatty'}"
+9862,6-Methyl-5-Hepten-2-One,"{'apple', 'lemongrass', 'citrus', 'green', 'mushroom', 'pepper', 'nutty', 'bitter', 'rubber', 'musty', 'hazelnut'}"
+98781,Allyl propyl sulfide,"{'onion', 'garlic', 'green'}"
+9895,beta-Cyclocitral,"{'damascone', 'tobacco', 'rose oxide', 'minty', 'tropical', 'saffron', 'sweet', 'mint', 'herbal', 'fruity', 'clean'}"
+994,Dl-Phenylalanine,{'odorless'}
+996,phenol,"{'phenol', 'plastic', 'rubber', 'phenolic'}"
+9989713,CID 9989713,"{'rose', 'bergamot', 'apple', 'woody', 'mint', 'green', 'fresh', 'grapefruit'}"
+998,phenylacetaldehyde,"{'cocoa', 'green', 'hawthorne', 'honey', 'clover', 'bitter', 'peanut', 'floral', 'grapefruit', 'sweet', 'hyacinth'}"
+99967,Grosheimin,{'bitter'}
+999,Phenylacetic Acid,"{'civet', 'sour', 'waxy', 'honey', 'flower', 'floral', 'sweet', 'honeysuckle'}"
